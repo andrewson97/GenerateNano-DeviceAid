@@ -1,0 +1,63 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.iterate.adreno.testapp'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.iterate.adreno.testapp"
+        minSdk 26
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+        
+        ndk {
+            abiFilters 'arm64-v8a'
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    
+    // Packaging options for native libraries
+    packagingOptions {
+        pickFirst '**/*.so'
+        jniLibs.useLegacyPackaging = true
+    }
+    
+    // Include libs directory for JNI libraries
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+    
+    // AAPT options to handle model files without compression
+    aaptOptions {
+        noCompress "gguf", "bin", "eai", "so"
+        cruncherEnabled = false
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.aar'])
+    
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.10.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    
+    // Required for SDK
+    implementation 'org.json:json:20230227'
+    implementation 'com.microsoft.onnxruntime:onnxruntime-android:1.16.3'
+}

@@ -1,0 +1,47 @@
+# Android Build Files
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Build directories
+build/
+*/build/
+.gradle/
+.idea/
+*.iml
+local.properties
+
+# Large binary files
+*.aar
+*.so
+*.bin
+*.gguf
+*.jar
+
+# Model files (but allow whisper-models for LFS)
+models/
+!test-app/app/src/main/assets/whisper-models/
+!test-app/app/src/main/assets/whisper-models/*.bin
+!test-app/app/src/main/assets/whisper-models/*.so
+
+# Output directories
+output/
+out/
+release/
+
+# NDK
+obj/
+.externalNativeBuild/
+.cxx/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Gradle
+.gradle
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties

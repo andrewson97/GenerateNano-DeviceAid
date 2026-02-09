@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DeviceAid" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/light_gray</item>
+        <item name="colorAccent">@color/brand_primary</item>
+        <item name="actionBarStyle">@style/CustomActionBarStyle</item>
+    </style>
+    
+    <style name="CustomActionBarStyle" parent="Widget.MaterialComponents.ActionBar.Primary">
+        <item name="background">@color/white</item>
+        <item name="elevation">0dp</item>
+        <item name="subtitleTextStyle">@style/CustomSubtitleTextStyle</item>
+    </style>
+    
+    <style name="CustomSubtitleTextStyle" parent="TextAppearance.AppCompat.Widget.ActionBar.Subtitle">
+        <item name="android:textSize">10sp</item>
+    </style>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- iterate.ai Brand Colors -->
+    <color name="brand_primary">#336FE4</color>
+    <color name="brand_secondary">#EC4F31</color>
+    <color name="brand_tertiary">#EFC72D</color>
+    
+    <!-- Neutral Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="dark_gray">#666666</color>
+    <color name="black">#191D20</color>
+</resources>

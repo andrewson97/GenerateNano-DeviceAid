@@ -1,0 +1,1650 @@
+[
+  {
+    "page": 1,
+    "source_file": "DX800.txt",
+    "qa_pairs": [
+      {
+        "question": "How do I turn my DX8000 device on and off?",
+        "answer": "To power on: Press and hold the Power button for about 3 seconds until the Ingenico screen appears. To power off: Press and hold the Power button for more than 3 seconds until the display shows a Power menu, then select Power off. To restart the device, select Restart. To enter Screen saver mode: Press and hold the Power button for 0.5 seconds until the display turns off. Your device will remain on, but asleep. Press and hold the Power button for 0.5 seconds to wake the device and turn the display back on."
+      },
+      {
+        "question": "How do I order a DX8000 terminal?",
+        "answer": "To order a new device, please call our Support Team at (888)-886-8869."
+      },
+      {
+        "question": "How do I charge my DX8000 device?",
+        "answer": "All devices come with a battery that requires charging with the included USB-C to USB power cord. Battery percentage will display on-screen. If the battery drops to empty, the terminal will automatically shut off."
+      },
+      {
+        "question": "How do I set up the terminal to connect to your wireless network?",
+        "answer": "Open your device’s Settings app from the home screen. In the Input password pop-up, input 350000 and select OK. Select Network & internet. Select Wi-Fi to connect to an available network. Select your Network from the displayed list. Note: Once a network is connected and saved, your device will automatically connect to this network every time."
+      },
+      {
+        "question": "Can I configure the terminal to disable tips, add tips on screen or on a receipt?",
+        "answer": "Yes, you can disable or set up tips at the time of sale on screen. Adding tips on receipt is not supported at this time."
+      },
+      {
+        "question": "How do I set up tips on screen DX8000?",
+        "answer": "From the hamburger menu (3 white horizontal lines on the top left of the app), select Settings. Select Transaction and scroll to the Tip Prompting section. Select the Tip amount prompting item and select Process and prompt. Select Confirm."
+      },
+      {
+        "question": "Can I customize my DX 8000 receipt?",
+        "answer": "No, not at this time."
+      },
+      {
+        "question": "How do I get additional support using my DX8000 device?",
+        "answer": "Visit the Chase Assist app on your device for help with everything from getting connected to Wi-Fi to understanding an error code. From the hamburger menu, scroll to the bottom and select Exit. On your device’s home screen, tap the Chase Assist app icon. Browse for your desired topic."
+      },
+      {
+        "question": "My charging DX8000 base isn’t charging my device, what do I do?",
+        "answer": "Try the following steps: Verify your power and cable connection. Check if the DX8000 is properly seated on the base. Try connecting the charging cable directly into the device."
+      },
+      {
+        "question": "All my efforts are unsuccessful, what should I do?",
+        "answer": "If all of the above steps are unsuccessful, please call our Support Team at (888)-886-8869."
+      },
+      {
+        "question": "Do I need to create User credentials to use my device?",
+        "answer": "No, however, you will be unable to process a refund or void a transaction without a Manager or Clerk/Server ID username and password. It is highly recommended to create credentials before using your terminal."
+      },
+      {
+        "question": "How do I manage multiple funding accounts?",
+        "answer": "The DX8000 will settle your daily transactions to your designated account on record. Your account information is not stored on your terminal. If you would like to change your DDA information, please call our Support Team at (888)-886-8869."
+      },
+      {
+        "question": "Can I download other applications to my device?",
+        "answer": "No, not at this time."
+      },
+      {
+        "question": "How do I create my Manager credentials for the first time after receiving my terminal?",
+        "answer": "Managers are granted unlimited access to the device. From the hamburger menu, select Users. Select Admin. Enter your dynamic password and select Confirm. Please call our Support Team (888)-886-8869 to obtain your dynamic password. You will need to provide your Merchant ID number. The temporary password will be valid only until midnight local time. Select Add User and input a Username, Password, and Friendly Identifier (optional). Select Confirm."
+      },
+      {
+        "question": "How do I add my clerks/servers/employees to my device?",
+        "answer": "Clerks and Servers are granted limited access to the device where applicable. From the hamburger menu, select Users. Select Manager. Enter your Username and Password and select Confirm. Select the Add clerk/server button and input a Username, Password, and Unique Clerk Identifier. Select Confirm."
+      },
+      {
+        "question": "Can I delete or update my user credentials on the device?",
+        "answer": "Yes, you may delete or update your manager or clerk/server ID and credentials from the Users menu. From the hamburger menu, select Users. Select Manager. Enter your Username and Password and select Confirm. Select Delete or Update next to the credentials you would like to remove or edit."
+      },
+      {
+        "question": "When will my money be deposited?",
+        "answer": "If you have a Chase DDA, you can expect next business day funding if transactions are settled by 10 PM ET, excluding weekends and bank holidays. If you have a non-Chase DDA, depending on your bank, you can expect next business day funding or more."
+      },
+      {
+        "question": "How do I load paper into the receipt printer?",
+        "answer": "To install your paper roll: Open the paper cover by lifting the catch located at the top of the terminal and pull the cover to the rear of the terminal. Insert the paper roll in the compartment. Pull the paper up to the top of the terminal, maintain the paper, and close the cover. Press simultaneously on both upper corners of the paper flap until it clips into position."
+      },
+      {
+        "question": "Is the DX8000 PCI-compliant?",
+        "answer": "Yes, the terminal is PCI v6 compliant."
+      },
+      {
+        "question": "What is Chase Assist?",
+        "answer": "Chase Assist is the on-device support application for more details on next steps, fixes, and additional error codes that may appear on your DX8000 terminal. You may access this application for 24/7 assistance."
+      },
+      {
+        "question": "How do I change the language settings on my device?",
+        "answer": "Yes, you have the option to display text in English (American or British), French, or Spanish. From the hamburger menu, select UI Language. Select the desired language and select Confirm to save."
+      },
+      {
+        "question": "How do I change the date and time zone on my terminal?",
+        "answer": "Yes, you have the option to adjust either. On the home screen of your device, select the Settings app. In the Input password popup, input 350000 and select OK. Select System. Select Date & time. Adjust your settings as desired."
+      },
+      {
+        "question": "How do I process a simple payment using tap, insert, or swipe?",
+        "answer": "From the home screen, select the Sale icon. Follow additional prompts if you have Clerk IDs, Invoice #s, or Tax #s enabled. Enter the desired sale amount and select Confirm. Enter a tax and/or tip amount, if applicable, and select Confirm. Have the customer tap, insert, or swipe their card. For contactless tap transactions, have the customer hold their card over the reader under it flashes and/or beeps. Wait for the approval screen and select Print receipt or View receipt as desired."
+      },
+      {
+        "question": "How do I process a payment using manual entry?",
+        "answer": "From the home screen, select the Sale icon. Follow additional prompts if you have Clerk IDs, Invoice #s, or Tax #s enabled. Enter the desired sale amount and select Confirm. Enter a tax and/or tip amount, if applicable, and select Confirm. On the \"Does everything look OK?\" screen, review sale details and select Confirm. On the Present Card screen select Manual Entry. Select the card type. Enter the Card number and select Confirm. Wait for the approval screen and select Print receipt or View receipt as desired."
+      },
+      {
+        "question": "How do I handle a \"Transaction failed\" or \"Failure on all comm modes\" error on my device?",
+        "answer": "This is notifying you that the network connection has failed. Please verify your network connection and retry the transaction."
+      },
+      {
+        "question": "How do I handle a \"System problem call help desk\" error?",
+        "answer": "Please call our Support Team at (888)-886-8869. Your card reader won’t work until you contact us for important maintenance or security enhancements."
+      },
+      {
+        "question": "How do I refund a transaction?",
+        "answer": "You may initiate a refund to return money to a card holder’s account from a sale completed in a closed batch (e.g., previous day and prior). Refunds can be processed up to 60 days post-transaction. From the home screen, select the Refund icon. Enter your User Name and Password and select Confirm. Enter the desired full or partial refund amount and select Confirm. Have the customer tap, insert, swipe, or manually enter their card. Select Cancel at any time to end the refund transaction. For contactless tap transactions, have the customer hold their card over the reader until it flashes and/or beeps. Wait for the approval screen and select Print receipt or View receipt as desired."
+      },
+      {
+        "question": "How do I void or cancel a transaction?",
+        "answer": "You may initiate a void to reverse a credit or debit sale to prevent any funds from transferring from the cardholder’s account. This is only available for transactions in the current batch (e.g., same day). From the home screen, select the Void icon. Enter your Username and Password and select Confirm. Select Yes to void the last transaction performed. Select No to void any other transaction within the batch. Enter the last four digits of the cardholder’s number located on the receipt and tap Confirm. If more than one card ends with the same last four digits, select the appropriate transaction to void and tap Confirm. On the \"Are you sure?\" screen displaying transaction amount and card number, select Yes to proceed with the void. Select No to cancel the voided transaction."
+      },
+      {
+        "question": "What reporting options are available with my device?",
+        "answer": "To generate an accurate report, please run your desired report prior to batch settlement. The following reports are available to print and view from the hamburger menu: Detail Summary Clerk Detail Clerk Summary Host Detail Host Summary Batch History Settlement Open Pre-authorizations"
+      },
+      {
+        "question": "How does Chase manage disputes?",
+        "answer": "Customers may dispute a charge because they: Did not receive a product or service. Do not recognize the charge or payee on their statement. Believe the product or service was defective, damaged, or not as it was described. Were a victim of fraud – their credit or debit card was stolen or used without their consent. Were charged twice."
+      },
+      {
+        "question": "How can I prevent chargebacks?",
+        "answer": "Chargebacks cost you time and money, so understanding how to manage them and protect your business is critical. Use delivery tracking, including signature confirmation. Use your company name on card statements. Use accurate product descriptions and clearly defined refund policies. Use ID verification policies and services – also consider accepting chip-enabled cards."
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "source_file": "chase_pos.txt",
+    "qa_pairs": [
+      {
+        "question": "How do I download the app?",
+        "answer": "Download the Chase Point of Sale App from the Google Store or iOS App Store."
+      },
+      {
+        "question": "How do I set up my device to use Chase POS App?",
+        "answer": "Sign on to the Chase POS App using your Chase.com credentials. Both admin and associated users can log in. You'll receive a code by phone or email to complete the first sign-in. After entering the code, choose a Merchant Account, assign a name for your app, and wait for updates. Complete the tip and tax settings wizard, or adjust them later in the Settings menu. You can also purchase a Chase Card reader during onboarding."
+      },
+      {
+        "question": "How do I update the software on the Chase POS App?",
+        "answer": "Chase periodically releases updates for the Chase POS App. Enable auto-update to receive important updates immediately."
+      },
+      {
+        "question": "Is the Chase POS App PCI-compliant?",
+        "answer": "Yes, the Chase POS App is fully PCI PTS 5.x compliant, meeting Payment Card Industry Data Security Standards and undergoing third-party audits to ensure security."
+      },
+      {
+        "question": "Can I change language settings?",
+        "answer": "At this time, only English is supported."
+      },
+      {
+        "question": "How do I change current methods of payment?",
+        "answer": "The methods of payment (MOP) are defined in your merchant Terms of Service agreement. Available MOPs include VISA, Mastercard, Discover, American Express, and China Union Pay (CUP). These cannot be changed within the Chase POS App."
+      },
+      {
+        "question": "How do I change the business address on the device?",
+        "answer": "The business address is automatically set based on onboarding information. To update the address, contact the Support Team at 888-659-4961. This will also change the address displayed on receipts."
+      },
+      {
+        "question": "How do I access Settings in the Chase POS App?",
+        "answer": "Sign in to the Chase POS App, open the Main menu in the upper left corner, and choose Settings."
+      },
+      {
+        "question": "How can I receive merchant copies of receipts?",
+        "answer": "You can receive merchant copies of receipts via email. Set the Email toggle in your Receipt Settings to ON, or add a new email address for receipts and save it."
+      },
+      {
+        "question": "Are there ways to adjust tax rates?",
+        "answer": "Yes, you can set up tax rates in the app's settings."
+      },
+      {
+        "question": "Can I add discounts?",
+        "answer": "Yes, you can configure multiple preset discount options during a sales transaction."
+      },
+      {
+        "question": "Can I add reference codes to sales?",
+        "answer": "Yes, reference codes can be used to track events or capture additional sale details. You can manage them in the Settings menu under Reference Codes."
+      },
+      {
+        "question": "What details are included in transaction receipts?",
+        "answer": "Receipts include the legal business name and address. You can add an additional business name or remove the street address for privacy."
+      },
+      {
+        "question": "How do I set up tips on screen?",
+        "answer": "To enable tips on screen, select the ON Screen option in the app. You can allow custom tips and preset tip amounts. Settings will apply to all Chase POS apps and terminals on the account."
+      },
+      {
+        "question": "How do I manage multiple accounts?",
+        "answer": "The Chase POS App can be used with only one Chase account per device. You can delete and reinstall the app to select a different account. However, multiple users can use the same device."
+      },
+      {
+        "question": "How do I add additional users to the app?",
+        "answer": "You can add or remove authorized users and manage access in the Access and Security Manager on Chase.com or the Chase Mobile App."
+      },
+      {
+        "question": "How do I manage user access levels?",
+        "answer": "In the Systems Administrator view, choose your account and assign access levels such as \"transact only\" or \"See activity and transact\" depending on what you want users to access."
+      },
+      {
+        "question": "Can I close my Chase POS account?",
+        "answer": "If you accept payments through your CBCB account, card acceptance won't be available once the CBCB account is closed. You can close a Chase Payment Solutions account through the Chase Mobile app or Chase.com under the Account Termination section."
+      },
+      {
+        "question": "When will my money be deposited?",
+        "answer": "If you're depositing into a Chase banking account: Card payments authorized before 8 PM ET Sunday through Friday will be deposited by 12 AM ET. Card payments authorized before 8 PM ET on Saturdays will be deposited by 7:30 AM ET Sunday morning. Payments authorized after the daily cut-off time will be deposited the next day. If you're depositing into a non-Chase account: Your funds will be deposited the next day. If your payment hasn't been deposited as per the stated timelines, your transaction may be under review. Please reference the \"Funds Hold\" section for more information."
+      },
+      {
+        "question": "How will I know when I receive a dispute?",
+        "answer": "Chase will notify you of the dispute by email. You can also view the dispute on the Chase Merchant Dashboard. The disputed amount will be temporarily deducted from your next settlement during the claim review process."
+      },
+      {
+        "question": "What do I do if I receive a dispute?",
+        "answer": "See the dispute status on the Chase Merchant Dashboard in your online account. You'll receive an initial email with dispute details. Review the information carefully. You may contest or concede the dispute. If you accept responsibility, choose \"Concede,\" and the funds will not be returned to your account."
+      },
+      {
+        "question": "Can I use the Chase POS App internationally?",
+        "answer": "No, the Chase POS App is intended for U.S.-processed transactions and is not supported outside of the United States."
+      },
+      {
+        "question": "How do I accept international credit cards?",
+        "answer": "Merchants using Chase POS App and the card reader can process international credit cards using the Swipe, Dip, or Tap methods. Manual entry transactions are limited to cards with U.S.-based billing addresses. Additional validation may be required to protect against fraud."
+      },
+      {
+        "question": "How does Chase manage disputes?",
+        "answer": "When a customer disputes a charge, their bank reverses the payment during the review. You'll be notified via email, and the disputed amount will be temporarily deducted from your next settlement. You must provide proof that the charge was legitimate if you challenge the dispute. The time limit for disputes varies, and American Express allows disputes at any time."
+      },
+      {
+        "question": "How will I know when I receive a dispute?",
+        "answer": "Chase notifies you of the dispute via email. You can also see it in your transaction history. The disputed amount is deducted from your settlement while the claim is reviewed. If your settlement doesn't have enough funds, the amount will be deducted from your bank account."
+      },
+      {
+        "question": "What do I do if I receive a dispute?",
+        "answer": "See the dispute status in your transaction history on Chase.com or Chase Mobile. Review the dispute type carefully. You can contest or concede the dispute. If you choose to challenge it, provide supporting evidence that the service or product was provided as intended."
+      },
+      {
+        "question": "What is Form 1099-K?",
+        "answer": "Form 1099-K is the IRS's information return for reporting payment transactions. It reflects the gross dollar amount of transactions processed in the previous calendar year. The form will be sent to you, and it is up to you (or your tax professional) to determine if these amounts represent taxable income."
+      },
+      {
+        "question": "When will I receive my 1099-K form?",
+        "answer": "If you process more than $600 in transactions during the calendar year, you'll receive the 1099-K form by January 31 of the following year. The form will come from WePay, a Chase company."
+      },
+      {
+        "question": "Do 1099-K thresholds apply to businesses and non-profits?",
+        "answer": "Yes, the $600 threshold applies to all U.S.-based businesses, including non-profits. The 1099-K form will reflect the name and Taxpayer Identification Number (TIN) of the business or non-profit, not the administrator's personal information."
+      },
+      {
+        "question": "Are refunds and fees included in the $600?",
+        "answer": "No, refunds, fees, chargebacks, and other items are disregarded. The gross payment volume is based on the original amount your customers paid."
+      },
+      {
+        "question": "How should I use the information from the 1099-K form?",
+        "answer": "You and your tax professional should determine whether the amounts reported represent taxable income and how to report your business activity on your tax return."
+      },
+      {
+        "question": "I'm not a U.S. citizen or permanent resident. Will I receive a 1099-K form?",
+        "answer": "Non-U.S. merchants are required to certify their foreign status to be exempt from 1099-K reporting. Certification is valid for three years and must be renewed."
+      },
+      {
+        "question": "When will my money be deposited if I'm depositing into a Chase banking account?",
+        "answer": "Card payments authorized before 8 PM Eastern Time Sunday through Friday will be deposited by 12 AM Eastern Time. Card payments authorized before 8 PM Eastern Time on Saturdays will be deposited by 7:30 AM Eastern Time Sunday morning. Payments authorized after the daily cut-off time will be deposited the next day."
+      },
+      {
+        "question": "What if I'm depositing into a non-Chase account?",
+        "answer": "Your funds will be deposited the next day."
+      },
+      {
+        "question": "How will I know if I receive a dispute?",
+        "answer": "Chase will notify you of the dispute by email, and you can also see it on the Chase Merchant Dashboard."
+      },
+      {
+        "question": "What should I do if I receive a dispute?",
+        "answer": "Check the status of your dispute on the Chase Merchant Dashboard. Review the email notification carefully. You can choose to contest or concede the dispute. If you concede, the funds will not be returned to your settlement bank account."
+      },
+      {
+        "question": "Can I use the Chase POS App internationally?",
+        "answer": "No, the Chase POS App is only supported for U.S.-processed transactions and is not available outside the United States."
+      },
+      {
+        "question": "How do I accept international credit cards?",
+        "answer": "For merchants using the Chase POS App, international credit cards can be processed using Swipe, Dip, or Tap methods. Manual entry transactions are limited to U.S.-based billing addresses."
+      },
+      {
+        "question": "What happens if a transaction is under review?",
+        "answer": "Chase may hold funds to verify the legitimacy of the transaction. If there is a funds hold, the transaction status will show \"Pending - in Review\" on chase.com or the Chase Mobile app. You may receive an email for additional documentation from WePay.com. If you don't receive an email, contact Chase for support."
+      },
+      {
+        "question": "How does Chase manage disputes?",
+        "answer": "When a customer disputes a charge, their payment is reversed while the case is reviewed. You'll be notified by email and in your transaction history. You must provide proof of the transaction's legitimacy. Most card networks allow disputes up to 120 days after the transaction, with some extending to 540 days. American Express allows disputes at any time."
+      },
+      {
+        "question": "When will I receive my 1099-K form?",
+        "answer": "If you process more than $600 in transactions in a calendar year, you'll receive the 1099-K form by January 31 of the following year from WePay, a Chase company."
+      },
+      {
+        "question": "Do the $600 thresholds for the 1099-K form apply to businesses and non-profits?",
+        "answer": "Yes, the $600 threshold applies to all U.S.-based businesses and non-profits. The 1099-K form will reflect the legal name and Taxpayer Identification Number (TIN) of the business or non-profit."
+      },
+      {
+        "question": "Are refunds and fees included in the $600 threshold for the 1099-K form?",
+        "answer": "No, refunds, fees, chargebacks, and other items are not included. The gross payment volume is based on the amount of money your customers originally paid."
+      },
+      {
+        "question": "How should I use the information from the 1099-K form?",
+        "answer": "You (and your tax professional) should determine if the amounts reported represent taxable income and how to report it on your tax return. For help, visit IRS.gov."
+      },
+      {
+        "question": "If I'm not a U.S. citizen or permanent resident, will I get a 1099-K form?",
+        "answer": "Non-U.S. merchants must certify their foreign status to be exempt from 1099-K reporting. Certification is valid for 3 years and must be renewed."
+      },
+      {
+        "question": "How do I pair a Chase Card Reader with the Chase POS App?",
+        "answer": "Ensure Bluetooth is ON for your device and the Chase POS App. Log in with your Chase credentials. Tap the menu icon, select Connect a card reader, choose the reader by matching the serial number, and enter the Passkey displayed on the reader."
+      },
+      {
+        "question": "What should I do if the firmware update for the card reader fails?",
+        "answer": "If the update fails, you may need to un-pair the reader and re-pair it. For iOS, forget the device from Bluetooth settings and retry pairing. If issues persist, reset the reader by draining its battery for a day, then charge and pair it again."
+      },
+      {
+        "question": "How do I use the Chase Card Reader for accepting payments?",
+        "answer": "In the Chase POS app checkout flow, select Charge with card reader. The reader will display a message to present the card. You can swipe, tap, or insert the card, or use a digital wallet."
+      },
+      {
+        "question": "How do I refund a sale completed with the card reader?",
+        "answer": "Tap the Menu bar, select Sales Activity, choose the transaction, and tap Issue Refund."
+      },
+      {
+        "question": "How can I order a Chase Card Reader?",
+        "answer": "Sign in to the Chase POS App, go to the Main menu, select Order devices, and choose Shop Now. Follow the prompts to add the Chase Card Reader to your cart and complete the checkout process."
+      },
+      {
+        "question": "Can I give a custom name to my connected Chase Card Reader?",
+        "answer": "Yes, you can assign a custom name to your reader through the Chase POS App settings. The name will appear on the reader's screen while connected."
+      },
+      {
+        "question": "Can I use the Chase Card Reader with other payment apps?",
+        "answer": "No, the Chase Card Reader can only be paired with the Chase POS App for accepting payments."
+      },
+      {
+        "question": "How do I charge my Chase Card Reader?",
+        "answer": "Use the included USB cable or charging dock. It takes about one hour to fully charge the battery. The battery level is shown on the reader's screen."
+      },
+      {
+        "question": "What is the minimum battery level required for software updates?",
+        "answer": "Security updates require a minimum of 20% battery, and firmware updates require 50% or more. It's recommended to connect the reader to power during updates."
+      },
+      {
+        "question": "What should I do if my card reader does not appear on the Connect a Card Reader screen?",
+        "answer": "If the reader's serial number does not appear, it may not be ready for pairing. Ensure the reader is powered on and in pairing mode, and try again."
+      },
+      {
+        "question": "How do I use the Power button on my card reader?",
+        "answer": "To power on, press and hold the Power Button for 3 seconds. To power off, press and hold for 3 seconds until you hear 3 beeps. To wake from Sleep Mode, press the Power Button briefly."
+      },
+      {
+        "question": "How can I extend the card reader's battery life?",
+        "answer": "The reader has battery-saving modes: Dim Mode (screen dims after 2 minutes of inactivity) and Sleep Mode (screen turns off after 5 minutes). Adjust these settings in the Chase POS App."
+      },
+      {
+        "question": "How do I secure the card reader to the Chase Card Reader Base?",
+        "answer": "Use the provided thumb screw to secure the reader to the base."
+      },
+      {
+        "question": "What should I do if my card reader is damaged or broken?",
+        "answer": "Contact customer support at 888-659-4961 to initiate a return or replacement. Review the return policy for more information."
+      },
+      {
+        "question": "What if my card reader has not arrived?",
+        "answer": "Check your shipping notification email for delivery status. For other inquiries, contact customer support at 888-659-4961."
+      },
+      {
+        "question": "How do I pair a Moby card reader?",
+        "answer": "Charge your card reader for about two hours until a solid red light appears. Turn on Bluetooth on your device. Turn on the card reader by holding down the power button on the right side until it beeps. Sign in to the Chase POS App. Open the Main menu in the upper left corner and choose \"Connect a card reader.\" On the Card reader screen, select \"Pair a card reader.\" Choose the card reader from the available list once it's connected via Bluetooth. If your card reader isn't listed, check your device's Bluetooth settings and unpair it if necessary, then retry in the Chase POS App. Verify that the light pattern on the app matches the card reader's light pattern, then choose \"Confirm.\" If needed, choose \"Replay light pattern.\" Once successfully paired, select \"Done.\" Your card reader is now paired with the app."
+      },
+      {
+        "question": "How long will my Moby card reader stay paired and connected to my app?",
+        "answer": "Once paired, the card reader will stay connected to the app unless you manually unpair it from both the Connect a card reader menu and your device's Bluetooth settings. If the card reader is connected during pairing or through the Connect Now function in the Sale flow, it will stay connected for about 30 minutes or more. If not using the reader immediately after a sale, switch it off to save battery."
+      },
+      {
+        "question": "Why are my funds being held?",
+        "answer": "Funds may be held due to fraud protection or exceeding deposit limits. Chase may hold funds for additional validation and request documentation to ensure transactions are legitimate. Deposit limits are set to cover potential chargebacks, returns, and other risks, acting as a buffer before funds are accessible."
+      },
+      {
+        "question": "When will my money be deposited?",
+        "answer": "Chase POS App payments completed before 8 PM Eastern Time Sunday through Friday will be deposited by 12 AM Eastern Time. Payments completed before 8 PM Eastern Time on Saturdays will be deposited by 7:30 AM Eastern Time Sunday morning. Payments made after the daily cutoff time will be deposited the next day."
+      },
+      {
+        "question": "Why is my settlement deposit less than the total amount I processed?",
+        "answer": "Fees are subtracted from your total before you receive your deposit. No additional transaction fees are charged at the end of the month. To see details of the deposit amount, adjustments, and fees, check the transaction history in your online account."
+      },
+      {
+        "question": "Can I accept payments with international credit cards?",
+        "answer": "Yes, merchants using the Chase POS App and the card reader can process international credit cards using Swipe, Dip, or Tap methods. For payment link and manual entry transactions, only cards with a U.S.-based billing address can be used."
+      },
+      {
+        "question": "How do I start a simple non-catalog sale?",
+        "answer": "Sign in to the Chase POS App. The New Sale screen will be displayed. Choose \"Enter sale amount\" to start a new sale. Enter the Sale Amount (Note: The Sale Amount can't be less than $1.00 or greater than $25,000.00). Optionally, add a name for the item. Use the keypad's + button to add more items or review the sale before choosing \"Review Sale.\" If you need to change the sale amount, select the \"Edit sale\" button and adjust the amount."
+      },
+      {
+        "question": "How do I process a payment using swipe, tap, or dip with the card reader?",
+        "answer": "Start a sale with an entered amount or catalog items and choose \"Review sale\" at the bottom of the screen. Verify or change the Discount, Tax, or add a Reference code if enabled in Settings. If Tip is enabled, enter the tip %, Custom tip, or No tip, then choose \"Check out.\" Select \"Charge with card reader.\" When the card reader screen appears, ask the customer to swipe, tap, or dip their card. If approved, the Customer Receipt screen will appear. Choose \"No Receipt\" if no receipt is requested. Choose \"Email\" to send an email receipt. Enter the customer's email ID and select \"Send receipt.\" Choose \"Text\" to send an SMS receipt. Enter the customer's phone number and select \"Send receipt\" (Note: Text receipts can only be sent to US phone numbers). If enabled in Settings, a merchant receipt copy will be emailed to you. The Chase POS App receipt will provide an itemized receipt if items were added."
+      },
+      {
+        "question": "How do I process a payment using manual entry?",
+        "answer": "On the card reader screen in a Sale, choose \"Enter card details manually.\" Enter the cardholder's name, card number, expiration date (MM / YY), zip code, and CVV. Choose \"Next.\" Choose \"No Receipt\" if no receipt is requested. Choose \"Email\" to send an email receipt. Enter the customer's email ID and select \"Send receipt.\" Choose \"Text\" to send an SMS receipt. Enter the customer's phone number and select \"Send receipt\" (Note: Text receipts can only be sent to US phone numbers). A copy of the receipt will be sent to you via email if enabled in Settings."
+      },
+      {
+        "question": "Is my consumer profile stored for digital receipts?",
+        "answer": "Chase stores the consumer's contact information to quickly send digital receipts. Consumers can opt out by clicking the \"Manage Receipt Options\" link on the digital receipt. Merchants cannot access or see this information, which is masked for protection. Details on data protection are available in the Privacy Policy."
+      },
+      {
+        "question": "Why does my customer's email or phone number appear?",
+        "answer": "Chase uses the contact information to expedite the checkout experience by sending digital receipts. The contact details were provided during a previous checkout."
+      },
+      {
+        "question": "Do I have access to my customer's contact information?",
+        "answer": "No, merchants do not have access to consumer contact information. It is stored to facilitate digital receipts, and the information is masked throughout the checkout process. Details on data protection are available in the Privacy Policy."
+      },
+      {
+        "question": "How does my customer stop Chase from storing this information?",
+        "answer": "Consumers can opt out by clicking the \"Manage Receipt Options\" link on the digital receipt. Merchants can also use the \"Why am I seeing this customer's info?\" link and choose \"Delete & Don't store\" to delete existing information and prevent further collection."
+      },
+      {
+        "question": "How can I see a summary of my transaction history?",
+        "answer": "Sign in to the Chase POS App; the New Sale screen will be displayed. Open the Main menu in the upper left corner. Choose \"Sales Activity\" to view the Sales Activity screen. Transactions will be displayed using the default or previous filters. To change filters, choose \"Filter\" in the upper right corner. On the Filter screen, adjust the filters (Date, Amount, Reference Code, Transaction) and choose \"Apply filters.\" To clear all filters, choose \"Clear\" on the Filter categories row. (Note: Cash and Other payment transactions are only visible in Chase POS App version 4.0 and above and Chase POS Terminal version 1.8 and above. Update the Chase POS apps to the latest version to view these transactions correctly.)"
+      },
+      {
+        "question": "What are merchant reference codes?",
+        "answer": "Reference codes are optional fields you can add to a sale to categorize transactions further, such as for sales promotions, marketing offerings, invoice numbers, or purchase orders."
+      },
+      {
+        "question": "How do I report a problem with a transaction?",
+        "answer": "Contact the Chase POS support team at 888-659-4961, available Monday through Friday from 9 AM - 8 PM EST, for assistance with diagnosing and resolving transaction issues."
+      },
+      {
+        "question": "How do I create and send a Payment Link?",
+        "answer": "Start a new Sale by entering an amount on the New Sale screen using \"Enter Sale Amount.\" On the Accept a Payment screen, select \"Payment Link.\" Enter the customer's name and an optional description in the \"What's this for?\" field (required if the amount is greater than $500). Select \"Create Link\" to generate the Payment Link. Choose \"Copy\" to copy the link or \"Share Link\" to open apps for sharing. Select the app and send the link to the customer."
+      },
+      {
+        "question": "Can my authorized users create Payment Links?",
+        "answer": "No, the Payment Link feature is available only to admin users. Authorized users cannot create or use Payment Links."
+      },
+      {
+        "question": "How do I get receipts for Payment Links?",
+        "answer": "Customers can receive optional email receipts after their payment is completed on the portal. The receipt will include the amount paid but will not include itemized details of the sale. You will receive an automatic email receipt for each transaction. Receipts are sent only after the link is paid, not when the link is created during checkout. Note: If you've configured an email ID for merchant receipts in your Chase POS settings, the receipts for Payment Link payments will not be sent to that email. Instead, receipts will be sent to the email ID you provided to Chase with your account."
+      },
+      {
+        "question": "Can I customize my link or payment portal page?",
+        "answer": "No, your Payment Link will be randomly generated, and you cannot customize the payment portal page at this time."
+      },
+      {
+        "question": "How can my customer pay via Payment Links?",
+        "answer": "The customer can select the Payment Link from the email or text message they receive. Selecting the link will open a payment portal. They can enter their credit or debit card information on the portal and select \"Pay.\" After payment, the customer will see a message that the payment is complete."
+      },
+      {
+        "question": "How can I view, track, and manage Payment Links?",
+        "answer": "Select \"Payment Links\" in the hamburger menu to view all Payment Links for your account by date. Link details will be available by selecting a link in the list."
+      },
+      {
+        "question": "How can I see the payment status of a link?",
+        "answer": "Select the Payment Link to see its status: Created, Awaiting Payment, Paid, Expired, or Canceled. Created: Status is green after the link was created successfully. Awaiting Payment: For links not yet paid. Paid: Shows as Paid if the customer has paid. Payment details for Paid links are available in the link detail by selecting \"Payment from Customer Name.\" You can also create a duplicate email receipt or issue a refund if not already refunded or pending completion. Expired: If a link was not paid for 90 days, it is expired and cannot be canceled, resent, or paid. Canceled: If a link was canceled, its status will be Canceled. Note: If a link was paid but payment details are not visible in the Chase POS Payment Links history, check your Sales Activity in the Chase Mobiler app or Chase.com."
+      },
+      {
+        "question": "Can I cancel a link?",
+        "answer": "Yes, select \"Payment Links\" in the hamburger menu, choose the link you want to cancel from the list, and select \"Cancel.\" Only active unpaid links can be canceled."
+      },
+      {
+        "question": "Can I resend a link?",
+        "answer": "Yes, select the link from the Payment Links list in the hamburger menu, choose \"Copy,\" and share the link using an app on your phone. Only active unpaid links can be resent."
+      },
+      {
+        "question": "Is there a way to check if a customer has opened the link?",
+        "answer": "No, you cannot see if a customer has opened the link."
+      },
+      {
+        "question": "Is there a way to remind a customer to pay?",
+        "answer": "No, reminders are not currently available."
+      },
+      {
+        "question": "Can I save customer emails/phone numbers to send links more quickly in the future?",
+        "answer": "No, you cannot save customers' contact information for future use."
+      },
+      {
+        "question": "Why am I being prompted to enter a memo when creating a Payment Link?",
+        "answer": "The memo will be visible to the customer on the payment portal page and receipt. It helps the customer understand the reason for the charge and assists in monitoring and protecting you from fraud."
+      },
+      {
+        "question": "Can the link be used to pay in installments?",
+        "answer": "No, the customer must pay the total amount requested on the link in a single payment."
+      },
+      {
+        "question": "Can I use the same link to accept multiple payments?",
+        "answer": "No, links are for one-time use only."
+      },
+      {
+        "question": "What are the fees for accepting cards via Payment Link?",
+        "answer": "The fees for Payment Link transactions are the same as for manual entry payments."
+      },
+      {
+        "question": "My customer has not received the link. What should I do?",
+        "answer": "Verify that the correct contact information was entered. If the issue persists, try sending the link through an alternate method (e.g., text, email)."
+      },
+      {
+        "question": "How long can customers access the Payment Link?",
+        "answer": "The Payment Link will be accessible until the customer pays or up to 3 months. After expiration, the customer will see a message to contact you for further information if they attempt to access the link Here's the Q&A format based on the provided content:"
+      },
+      {
+        "question": "Can I issue refunds for cash or other transactions on a credit card?",
+        "answer": "No, card-based refunds can only be applied to the original card. Cash or other refunds should be issued in a way that the merchant chooses."
+      },
+      {
+        "question": "How long can I issue refunds for settled transactions?",
+        "answer": "You can issue refunds for settled transactions for up to 60 days."
+      },
+      {
+        "question": "How do I find a transaction to issue a refund?",
+        "answer": "Filter and select the transaction you want to refund."
+      },
+      {
+        "question": "How do I issue a refund?",
+        "answer": "After the transaction has settled, you can perform a refund. Note: The refund option is only available for up to 60 days after the transaction. You can issue a full or partial refund; the refunded amount is tracked and cannot exceed the original sale amount. Note: The minimum refund amount is $1.00."
+      },
+      {
+        "question": "How can I view my recent refunds?",
+        "answer": "You can view your recent refunds in the Sales Activity section. Here's the Q&A format based on the provided content:"
+      },
+      {
+        "question": "Can I issue refunds for cash or other transactions on a credit card?",
+        "answer": "No, card-based refunds can only be applied to the original card. Cash or other refunds should be issued in a way that the merchant chooses."
+      },
+      {
+        "question": "How long can I issue refunds for settled transactions?",
+        "answer": "You can issue refunds for settled transactions for up to 60 days."
+      },
+      {
+        "question": "How do I find a transaction to issue a refund?",
+        "answer": "Filter and select the transaction you want to refund."
+      },
+      {
+        "question": "How do I issue a refund?",
+        "answer": "After the transaction has settled, you can perform a refund. Note: The refund option is only available for up to 60 days after the transaction. You can issue a full or partial refund; the refunded amount is tracked and cannot exceed the original sale amount. Note: The minimum refund amount is $1.00."
+      },
+      {
+        "question": "How can I view my recent refunds?",
+        "answer": "You can view your recent refunds in the Sales Activity section."
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "source_file": "chase_quick_accept.txt",
+    "qa_pairs": [
+      {
+        "question": "How can I activate card payments for my Chase Business Complete Checking account?",
+        "answer": "To activate card payments, sign in to chase.com and select your Chase Business Complete Banking account. Click on \"Accept Card Payments,\" then \"Get Started\" and follow the prompts to complete the activation. For instructions on activating via the Chase Mobile app, refer to the how-to video provided."
+      },
+      {
+        "question": "How do I accept a card payment?",
+        "answer": "Payments can be entered manually through chase.com or the Chase Mobile app. For manual entry, input the cardholder's full name, card number, expiration date, billing zip code, and CVV code. For American Expressr cards, the CVV is a 4-digit code on the front of the card. For using a card reader with the Chase Mobile app, refer to the Take Card Payments on the Go video. To send a payment link, select \"Payments links\" from the left-side menu."
+      },
+      {
+        "question": "How do I send a digital receipt?",
+        "answer": "After a payment is approved, you'll be prompted to provide a receipt, which can be sent via email or SMS/text. It's recommended to always send a receipt to your customer and keep a copy for record-keeping purposes."
+      },
+      {
+        "question": "Why does my customer's contact information appear on the receipt screen?",
+        "answer": "Chase stores your customers' contact information to facilitate quick digital receipts and enhance the checkout experience. Customers can opt out by clicking the \"Manage Receipt Options\" link on the digital receipt."
+      },
+      {
+        "question": "Do I have access to my customer's contact information?",
+        "answer": "No, you do not have access to customer contact details, as the information is masked throughout the checkout process. For details on data protection, refer to the Privacy Policy."
+      },
+      {
+        "question": "Can customers stop Chase from storing their contact information?",
+        "answer": "Yes, customers can opt out by clicking the \"Manage Receipt Options\" link on the digital receipt or by selecting the \"Don't save\" option under \"How did this contact info get here?\" to delete existing information."
+      },
+      {
+        "question": "Why did a payment fail?",
+        "answer": "Payment failures can occur due to incorrect or unverified customer information, declined transactions by the card issuer, deactivated card payments service, or violations of Terms of Service. If the service is deactivated, you should receive an email with more information or call 1-888-659-4961 for assistance."
+      },
+      {
+        "question": "How do I add sales tax to a transaction?",
+        "answer": "Sales taxes are not automatically added in the Chase Mobile App. Calculate the tax amount and add it to the total amount before processing the payment. For chase.com, select \"Card Payments Online\" in the left-side menu for instructions."
+      },
+      {
+        "question": "Can I accept payments with international credit cards?",
+        "answer": "International credit cards can be processed using a card reader. However, for key-entry transactions in the mobile app and web browser, the card must have a US-based billing address."
+      },
+      {
+        "question": "How do I report a problem with a transaction?",
+        "answer": "From the Activity Table and All Transactions list, select the transaction you wish to review. Click \"Report a Problem,\" enter your issue, and select \"Submit.\" You'll receive a confirmation email to the address used to open your account. Your inquiry will be reviewed by the QuickAccept Support team within 24 business hours."
+      },
+      {
+        "question": "How do I get started with a card reader?",
+        "answer": "The mobile card reader works with the Chase Mobile app on a mobile device. To order a card reader, go to the Chase Mobile app or chase.com, select your card payments account, and follow the prompts to order the device. Ensure the reader is charged before use."
+      },
+      {
+        "question": "Do I need to charge my card reader before using it?",
+        "answer": "Yes, charge the card reader using the included USB cable for 2 hours before setup. The red LED light will stop flashing and stay lit when fully charged. Disconnect from the computer USB port before use."
+      },
+      {
+        "question": "How do I pair the mobile card reader?",
+        "answer": "Ensure Bluetooth is on for your device and the card reader. Sign in to the Chase Mobile app, go to the Chase Business Complete Checking tile, swipe left, and choose \"Accept.\" Tap \"Connect and manage a card reader,\" select \"Pair a card reader,\" and follow the on-screen instructions."
+      },
+      {
+        "question": "What should I do if I can't see the LED light sequence on my card reader?",
+        "answer": "For customers with visual impairments, call 1-888-659-4961 for assistance in setting up the card reader."
+      },
+      {
+        "question": "Does the mobile card reader turn on automatically after charging?",
+        "answer": "No, turn on the reader by pressing and holding the power button until it beeps. The reader will turn off automatically after three minutes of inactivity."
+      },
+      {
+        "question": "My mobile card reader is not available in the Chase mobile app. What should I do?",
+        "answer": "Check that Bluetooth is on, the card reader is turned on and within range, and retry pairing. If the reader isn't listed, check the device's Bluetooth settings and \"forget\" the reader before attempting to pair again."
+      },
+      {
+        "question": "What should I do if I have issues processing with a card reader?",
+        "answer": "Ensure you have the latest version of the Chase Mobile App, verify Bluetooth and location settings, restart and re-pair the card reader, and check the reader's battery charge. For persistent issues, call 1-888-659-4961."
+      },
+      {
+        "question": "What if my card reader cannot hold a charge?",
+        "answer": "Try fully charging the reader again and re-pairing it. If this doesn't resolve the issue, review the return policy and contact POS Portal for a replacement or return."
+      },
+      {
+        "question": "Can I prevent the card reader from shutting down after 3 minutes of inactivity?",
+        "answer": "No, this setting cannot be adjusted."
+      },
+      {
+        "question": "Can I use my card reader for multiple accounts?",
+        "answer": "No, the card reader can only be paired with one account at a time."
+      },
+      {
+        "question": "What should I do if my card reader is damaged or broken?",
+        "answer": "Contact customer support at 1-888-659-4961 to initiate a return or replacement. Review the return policy for more information."
+      },
+      {
+        "question": "What should I do if my card reader has not arrived?",
+        "answer": "Check your shipping notification email for delivery status. For other inquiries, contact customer support at 1-888-659-4961."
+      },
+      {
+        "question": "How do I use the mobile card reader dock?",
+        "answer": "Remove the protective strip at the top of the dock, slide the card reader into place, replace the protective strip, and plug the card reader's charging cable into the dock to charge. For added security, install the provided screws in the back of the dock."
+      },
+      {
+        "question": "How do I create and send a payment link from the Chase Mobile app?",
+        "answer": "To send a payment link from the Chase Mobile app: Swipe left on the \"BUS COMPLETE CHK\" or \"Payment Solutions\" tile. Click \"Accept.\" Click \"Accept a card payment.\" Enter the transaction amount and purpose of payment in the memo field. Select \"Payment Link.\" Enter the customer's name. Click \"Create.\" Copy the link to your clipboard or share it via email, text, or other applications."
+      },
+      {
+        "question": "How do I create and send a payment link from my Chase.com account?",
+        "answer": "To send a payment link from your Chase.com account: Click on \"Collect and Deposit.\" Click \"Accept card payments.\" Select \"New sale.\" Enter the transaction amount and purpose of payment in the memo field. Select \"Payment Link.\" Enter the customer's name. Click \"Create.\" Copy the link to your clipboard and paste it into an email, invoice, etc., to send."
+      },
+      {
+        "question": "Why am I being prompted to enter a memo when creating a payment link?",
+        "answer": "The memo is visible to the customer on the payment portal page and receipt, helping them understand the reason for the charge, such as the products or services purchased. It also assists in monitoring and protecting your account from fraud."
+      },
+      {
+        "question": "Can the payment link be used to pay in installments?",
+        "answer": "No, the payment link must be used to pay the total amount requested; installment payments are not supported."
+      },
+      {
+        "question": "Can I use the same payment link to accept multiple payments?",
+        "answer": "No, payment links are one-time use only and cannot be used for multiple payments."
+      },
+      {
+        "question": "What are the fees for accepting payments via a payment link?",
+        "answer": "The fees for accepting payments via a payment link are the same as for manual entry payments."
+      },
+      {
+        "question": "Can authorized users see payment links?",
+        "answer": "Currently, only primary users can see payment links."
+      },
+      {
+        "question": "Can my customer leave a tip when completing their payment?",
+        "answer": "Yes, you can select the \"Add a tip\" option when creating the payment link. Customers will have the option to add a tip of 15%, 18%, 20%, a custom amount, or no tip at all. Tip amount limits: For sales less than $200, the tip cannot exceed the sale amount. For sales $200 or greater, the tip cannot exceed 50% of the sale amount or $1,000."
+      },
+      {
+        "question": "What should I do if my customer has not received the payment link?",
+        "answer": "Verify that the correct contact information has been entered for the customer. If the issue persists, try sending the link through an alternate method, such as text or email."
+      },
+      {
+        "question": "How long can customers access the payment link?",
+        "answer": "The payment link remains active until the customer pays or for up to 3 months. If the link expires, the customer will see a message to contact you for more information."
+      },
+      {
+        "question": "How can I view all the payment links I've created in Chase Mobile?",
+        "answer": "Swipe left on the \"BUS COMPLETE CHK\" or \"Payment Solutions\" tile. Click \"See accepted card payments.\" Toggle to \"Payment links.\" Click on an individual link to view additional details."
+      },
+      {
+        "question": "How can I view all the payment links I've created on Chase.com?",
+        "answer": "Click \"Collect & Deposit.\" Select \"Accept Card Payments.\" Click \"See transactions.\" Toggle to \"Payment links.\" Click on an individual link to view additional details."
+      },
+      {
+        "question": "Is there a way to filter my view of payments made with payment links?",
+        "answer": "Yes, you can filter payment links by either link status or the date they were created."
+      },
+      {
+        "question": "How can I check the payment status of a link?",
+        "answer": "Click on the payment link to see its current status: \"Sent,\" \"Paid,\" or \"Expired.\""
+      },
+      {
+        "question": "Can I check if a customer has opened the payment link?",
+        "answer": "No, you cannot see if a customer has opened the link."
+      },
+      {
+        "question": "Is there a way to remind a customer to pay?",
+        "answer": "No, there is currently no option to send payment reminders to customers."
+      },
+      {
+        "question": "Can I cancel or delete a payment link?",
+        "answer": "Yes, you can cancel a payment link by navigating to \"See accepted card payments\" in the Chase Mobile app or \"Sales activity\" on Chase.com. Only active unpaid links can be canceled."
+      },
+      {
+        "question": "Can I save customer emails or phone numbers to send links more quickly in the future?",
+        "answer": "No, you cannot save your customers' contact information."
+      },
+      {
+        "question": "What is Tap to Pay on iPhone?",
+        "answer": "Tap to Pay on iPhone allows you to accept all types of in-person contactless payments directly on your iPhone without needing extra hardware or readers."
+      },
+      {
+        "question": "What types of contactless payment methods can I accept with Tap to Pay on iPhone?",
+        "answer": "You can accept contactless payment methods, including credit and debit cards, Apple Pay, and other digital wallets."
+      },
+      {
+        "question": "What card networks can I accept with Tap to Pay on iPhone?",
+        "answer": "Tap to Pay on iPhone accepts all major card networks, including Visa, Mastercard, American Express, and Discover."
+      },
+      {
+        "question": "How can I activate Tap to Pay on iPhone?",
+        "answer": "Log into your account using the Chase Mobile app on your iPhone. Tap on your banking account or Chase Payment Solutions account. Tap \"Accept.\" Tap \"Accept a card payment.\" Choose \"Tap to Pay on iPhone\" on the new sale screen and follow the prompts to activate."
+      },
+      {
+        "question": "Do I have to pay any additional fees to use Tap to Pay on iPhone?",
+        "answer": "No, there are no additional fees for merchants using Tap to Pay on iPhone. Contactless card processing rates are 2.6% + $0.10 per transaction."
+      },
+      {
+        "question": "Do my customers have to pay any fees to use Tap to Pay on iPhone?",
+        "answer": "No, your customers do not pay any fees when you accept payments using Tap to Pay on iPhone."
+      },
+      {
+        "question": "In which countries is Tap to Pay on iPhone available?",
+        "answer": "Tap to Pay on iPhone is available in the U.S. with the Chase Mobile app."
+      },
+      {
+        "question": "How do I accept payments with Tap to Pay on iPhone?",
+        "answer": "Log into your account using the Chase Mobile app on your iPhone. Tap on your banking account or Chase Payment Solutions account. Tap \"Accept.\" Tap \"Accept a card payment.\" Enter transaction details and choose \"Tap to Pay on iPhone.\" Present your iPhone to the customer, and they will tap their card or digital wallet at the top of your iPhone. Once the \"done\" checkmark appears, the transaction is complete, and you can send a digital receipt."
+      },
+      {
+        "question": "Can I provide employees with access to use Tap to Pay on iPhone?",
+        "answer": "Yes, you can provide employees access to Tap to Pay on iPhone by making them authorized users of your bank account."
+      },
+      {
+        "question": "How do I manage transactions taken with Tap to Pay on iPhone?",
+        "answer": "Transactions can be managed just like other payments accepted through the Chase Mobile app."
+      },
+      {
+        "question": "What is the best way to position the iPhone to accept a payment?",
+        "answer": "For card payments: Present your iPhone and ask the customer to hold their card horizontally at the top of the iPhone, over the contactless symbol. For Apple Pay and digital wallets: Ask the customer to hold their device at the top of the iPhone, near the contactless symbol. When the \"done\" checkmark appears, the payment is complete."
+      },
+      {
+        "question": "What should I do if a contactless payment is not being read?",
+        "answer": "If the payment is not being detected, ask the customer to reposition their card or device. Some card materials, like metal, are less effective at contactless payments, while digital wallets typically send payments more quickly."
+      },
+      {
+        "question": "Does Tap to Pay on iPhone work on other devices, such as iPad?",
+        "answer": "No, Tap to Pay on iPhone is only available on iPhone."
+      },
+      {
+        "question": "Are there any other requirements to use Tap to Pay on iPhone?",
+        "answer": "Yes, in addition to a supported iPhone and the Chase Mobile app, you need a supported version of iOS and an Apple ID account. Additionally, Chase QuickAccept? must be enabled on your Chase Business Complete Banking account in the Chase Mobile app."
+      },
+      {
+        "question": "Can I use Tap to Pay on iPhone with the Chase Point of Sale (POS)? app?",
+        "answer": "Yes, Tap to Pay on iPhone is also available through the Chase POS app."
+      },
+      {
+        "question": "Do I need Wi-Fi or cellular data to use Tap to Pay on iPhone?",
+        "answer": "Yes, Tap to Pay on iPhone requires either Wi-Fi or cellular data. Using Wi-Fi is recommended for a smoother customer experience."
+      },
+      {
+        "question": "Can Tap to Pay on iPhone be used alongside my existing Chase point of sale solutions?",
+        "answer": "Yes, Tap to Pay on iPhone can be used in addition to your existing point of sale solutions for in-person payments."
+      },
+      {
+        "question": "Is Tap to Pay on iPhone secure?",
+        "answer": "Yes, Tap to Pay on iPhone uses built-in security features of iPhone to keep your business and customer data private and secure. Card numbers are not stored on the device or Apple servers during payment processing."
+      },
+      {
+        "question": "Does using Tap to Pay on iPhone affect the battery life of iPhone?",
+        "answer": "No, Tap to Pay on iPhone does not have a noticeable impact on battery life."
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "source_file": "ingenico_desk_5000.txt",
+    "qa_pairs": [
+      {
+        "question": "How do I set up my Ingenico Desk/5000 card reader?",
+        "answer": "1. Unpack your card reader and accessories. Important: Ensure your card reader is powered off during setup to avoid issues. 2. Connect the PIN pad (if applicable). - Note: The power and internet cables are pre-connected. If you need to disconnect/reconnect, follow these steps: - Power: Connect the power cord from the power adapter to the power port on the Magic Box (lightning bolt symbol). - Ethernet: Connect the Ethernet cable from the switch or other internet access point to the ETH port on the Magic Box. 3. If using a PIN Pad accessory: - Open the cable cover by unclipping it from the bottom of the reader. - Connect the USB PIN Pad cable to the USB Host Port on the card reader. - With the power disconnected, make space for the PIN Pad cable by removing one of the rubber caps from the Desk/5000 using scissors. - Reattach the cable cover and reconnect the power to the device. 4. Secure the Magic Box: - The Magic Box cable management system is pre-connected to your terminal. - Secure the Magic Box to reduce stress on the device and cables, prevent disconnection, and organize the workspace. 5. Connect the power adapter to a nearby outlet. - The PIN Pad should power up and display the idle screen."
+      },
+      {
+        "question": "How do I process a sale with the Ingenico Desk/5000 card reader?",
+        "answer": "1. Press the square green key to access the main menu. 2. Press [0] or the blue shopping cart \"Sale\" icon on the touch screen. 3. Enter the sale amount and press the square green key. 4. Customers can tap, insert, or swipe their card. If using a chip card, it should remain inserted until instructed to remove it. 5. Once the screen says \"Approved,\" customers will be prompted to remove their card. 6. Your receipt will automatically print. To print a customer’s receipt, press the square green key. If no selection is made after 30 seconds, a receipt will print automatically. 7. Once the sale is complete, the main menu will reappear."
+      },
+      {
+        "question": "How do I process a return or refund with the Ingenico Desk/5000 card reader?",
+        "answer": "1. Press the square green key to access the main menu. 2. Press [1] or the blue package carrier \"Return\" icon on the touch screen. 3. Enter the supervisor password and press the square green key. 4. Enter the return amount and press the square green key. 5. Customers can tap, insert, or swipe their card. If using a chip card, it should remain inserted until instructed to remove it. 6. Once the transaction is approved, your receipt will automatically print. 7. If a signature is required, have the customer sign your copy of the receipt. 8. Press the square green key again to print the customer’s receipt, if desired. If no selection is made after 30 seconds, a receipt will print automatically. 9. Once the return is complete, the main menu will reappear."
+      },
+      {
+        "question": "How do I include a tip in a sale on the Ingenico Desk/5000 card reader?",
+        "answer": "1. Pass the card reader to the customer to enter the tip amount. 2. The customer can press [1] for tip percentage, [2] for tip amount, or [0] for no tip. 3. The customer enters the tip amount and presses [1] to Accept or [2] to Change. 4. The customer then taps, inserts, or swipes their card. Note: If you need to configure your card reader to process tips, please call 1-888-886-8869 to speak with a specialist."
+      },
+      {
+        "question": "How do I void a sale on the Ingenico Desk/5000 card reader?",
+        "answer": "1. Press the square green key to access the main menu. 2. Press [2] or the blue shopping cart with a line going through it \"Void\" icon on the touch screen. 3. Enter the supervisor password and press the square green key. 4. Use the search menu to locate transactions by selecting: - [1] - All - [2] - Reference # - [3] - Clerk # - [4] - Invoice #/PO# - [5] - Account # - [6] - Customer # - [7] - RRN - [8] - Approval code 5. Enter the relevant information based on transaction type and press the square green key. 6. If \"ALL\" is selected, use the arrow keys to scroll through transactions and press the square green key to select the transaction to be voided. 7. The card reader will prompt you to confirm the void amount. Press [1] for YES or [2] for NO. 8. Once the void is confirmed, your receipt will automatically print. 9. To print a customer’s receipt, press the square green key. If no selection is made after 30 seconds, a receipt will print automatically. 10. Once the void is complete, the main menu will reappear."
+      },
+      {
+        "question": "How do I change the date or time on my Ingenico Desk/5000 card reader?",
+        "answer": "1. Press the gray/white Admin Key to access the Admin Menu, then select Admin Mode. - If prompted, input the Admin passcode and press the green enter key. 2. To change the date and time, select Tetra Admin, then select Set Date and Time. - To change the date: Input 6 digits for the two-digit day, two-digit month, and two-digit year, then press Enter. Be careful when entering the date, as an invalid year may render the terminal inoperable. - To change the time: Use a military time format to input 4 total digits, 2 for the hour and 2 for the minute, then press Enter. 3. The card reader may prompt to reboot for the changes to take effect and return to the idle screen once restarted."
+      }
+    ]
+  },
+  {
+    "page": 5,
+    "source_file": "ingenico_ict250.txt",
+    "qa_pairs": [
+      {
+        "question": "How do I process a card-not-present sale?",
+        "answer": "1. Select \"Sale\" from the main menu. 2. Enter the sale amount using the keypad and press Enter. If prompted to pass the terminal to the customer, bypass by pressing Enter again. 3. When prompted to Tap/Insert/Swipe/Key, enter the card number using the keypad. 4. Enter the card expiration date and CVV if prompted (based on your custom application, you may be prompted to enter additional information). 5. When asked, \"Card Present?\" select Yes or No. If you select No, you will be asked to select the type of sale (e.g., Mail Order, Phone Order, eCommerce). 6. Enter the customer zip code associated with the cardholder’s address. After hitting Enter, the terminal will display \"Dialing/Connecting…\"."
+      },
+      {
+        "question": "How do I reprint receipts?",
+        "answer": "1. Press [1] to reprint the last receipt, or 2. Press [2] to search for a receipt to reprint. 3. Follow the prompts to reprint the receipt."
+      },
+      {
+        "question": "What is a settlement, and how do I perform one?",
+        "answer": "A settlement operation is used to close out the current batch of transactions and open a new batch. The closed batch is then submitted to begin the funding process. There are two settlement options: 1. Manual Settlement: - If your terminal is set to manually settle: - Press the green [ENTER] button. - Use the Arrow Key to scroll down to \"Settlement\" and press the green [ENTER] button. - Press the appropriate hotkey for YES and ACCEPT to settle/close the batch. - At the end of every successful batch Settlement, a settlement report will automatically print. 2. Auto Settlement: - If your terminal is set to auto settle, transactions in the current batch will settle at a specific, predetermined time within a 24-hour period. - When configured, auto settlement begins any time after the set time occurs. - At the end of every successful batch Settlement, a settlement report will automatically print. - To change your settlement option to Auto, call the Help Desk at 1-888-886-8869. - Note: The terminal must be powered on for the Auto Settlement to occur."
+      },
+      {
+        "question": "How do I reload printer paper?",
+        "answer": "1. Access the printer roll by lifting up the paper cover on the rear of the terminal. 2. Remove any empty paper roll and place the new roll of paper in the compartment with the paper feeding from the bottom of the roll and a small amount of paper pulled out. 3. Close the paper cover. 4. Press and hold the yellow Back [<] key to feed the paper."
+      },
+      {
+        "question": "How do I run a report on my Ingenico card reader?",
+        "answer": "1. Press the Pound [#] key. 2. Select \"Reports\" to view the Reports Menu. 3. Use the arrow key and press the green [ENTER] button to select the report you wish to view or print. Note: Running these terminal reports will not settle your batch or alter the transactions that have been processed. For more reporting power and instant access to your merchant statement, use Resource Online featuring the reporting Dashboard. The Dashboard offers an at-a-glance view of your daily sales and settlement figures from any PC."
+      },
+      {
+        "question": "How do I troubleshoot the printer on my card reader?",
+        "answer": "If receipts are not printing and a \"No Paper\" error displays on your terminal: 1. Open the paper compartment. 2. Remove the paper roll and check for any jammed paper. 3. When finished, replace the paper roll and close the compartment. If the paper advances from the printer but is blank: 1. Ensure you are using thermal-sensitive (not plain) paper. 2. Make sure the paper feeds from the bottom of the roll."
+      },
+      {
+        "question": "How do I change the date or time on my ICT250 card reader?",
+        "answer": "Note: The Admin passcode may be required to update the date and time. 1. From the Idle Prompt, press the pound < # > key to access the Admin Menu. 2. Press the number indicated for the Setup Menu option. If prompted, input your password and press Enter. 3. Press the number indicated for the Term Settings option. Then press the number indicated for \"Set Date and Time.\" 4. If prompted for a password, input the password and press Enter. 5. To change the date: Input 6 digits for the two-digit day, two-digit month, and two-digit year, then press Enter. Be careful when entering the date and time, as an invalid year may render the terminal inoperable. 6. To change the time: Use a military time format to input 4 total digits, 2 for the hour and 2 for the minute, then press Enter. 7. The card reader may prompt to reboot for the changes to take effect and return to the idle screen once restarted."
+      }
+    ]
+  },
+  {
+    "page": 6,
+    "source_file": "ingenico_moby_5500.txt",
+    "qa_pairs": [
+      {
+        "question": "How do I charge my Chase Contactless Mobile Card Reader?",
+        "answer": "To charge your card reader, unpack the reader and USB charging cable. Connect the reader to a USB-compatible power source and charge it for two hours. The LED light will flash red while charging and turn solid red when fully charged. Make sure to unplug the reader from the computer if charging via a USB port, as it won't work while connected. To power on, press and hold the power button on the right side of the reader until it beeps."
+      },
+      {
+        "question": "How do I start the pairing process for my Chase Contactless Mobile Card Reader?",
+        "answer": "Enable Bluetooth on your device, sign in to the Chase Mobile Checkout app, go to Settings, tap Card Readers, and select the Moby reader (MOB55-xxxxxxx). Tap Pair to initiate the pairing process, and disregard the pairing code that appears in the prompt."
+      },
+      {
+        "question": "What should I do if a pairing code appears during the card reader pairing process?",
+        "answer": "Disregard the pairing code. The Chase Contactless Mobile Card Reader pairs using an LED light sequence for added security instead of a code."
+      },
+      {
+        "question": "How do I confirm that my card reader has paired correctly with my device?",
+        "answer": "Once the LED light sequence is displayed on both the reader and the app, confirm that the sequences match. If they do, tap Confirm in the app. If you need to see the sequence again, tap Replay."
+      },
+      {
+        "question": "How do I set the Moby reader as the active device in Chase Mobile Checkout?",
+        "answer": "After the reader is paired, toggle on the option to Set as active device in the app and tap Save. The reader will now be listed under Saved Devices."
+      },
+      {
+        "question": "What should I do if I encounter issues while pairing my Moby reader with my device?",
+        "answer": "Ensure that the Moby reader is paired through the Chase Mobile Checkout app, not through the device's system Bluetooth settings. If the reader appears in the iOS Bluetooth Settings, select the icon next to the reader and choose \"Forget This Device.\""
+      },
+      {
+        "question": "What steps should I take when I receive my username and temporary password for Chase Mobile Checkout?",
+        "answer": "Download the Chase Mobile Checkout app from the Apple App Store or Google Play Store, launch the app, and sign in with your username and temporary password. You will then be prompted to create a new password and enter an Identification Code, which can be received via phone or email."
+      },
+      {
+        "question": "What happens if my Chase card reader powers off due to inactivity?",
+        "answer": "The reader will automatically power off after three minutes of inactivity to preserve battery life. To re-activate the reader, press the power button to prepare for the next transaction."
+      },
+      {
+        "question": "How can I navigate the Chase Mobile Checkout app to access reports and manage my business?",
+        "answer": "From the home screen, tap the menu icon at the top left to access features like New Sale, Edit Catalog, Sales Activity, Other Reports (e.g., Settlement, Chargeback, Fees), Settings, Notifications, and Support."
+      },
+      {
+        "question": "What customizable options are available under the Settings section in the Chase Mobile Checkout app?",
+        "answer": "I can customize transaction settings such as adding reference numbers, enabling card verification prompts (CVV), setting up tip percentages, tax rates, discounts, and configuring electronic receipts. I can also set the business name as it appears on receipts."
+      },
+      {
+        "question": "How do I add or edit items in the Product Catalog within the Chase Mobile Checkout app?",
+        "answer": "Go to the Edit Catalog section from the main menu, then either select an item to edit its details or add a new item by entering the name, price, and category. I can also toggle tax settings and add a photo of the item."
+      },
+      {
+        "question": "How do I upload my business logo to receipts in the Chase Mobile Checkout app?",
+        "answer": "From the home screen, go to Settings, then select Receipts. Upload your logo in PNG format (75px high x 350px wide, maximum size 80 KB). Once uploaded, the logo will appear on your receipts."
+      },
+      {
+        "question": "How do I apply discounts to individual items or a total sale in the Chase Mobile Checkout app?",
+        "answer": "Enable the Discounts option in the Settings screen. Discounts can be applied on an individual item from the Edit Items screen or to the total sale on the Review Order screen. I can apply discounts either by amount or percentage."
+      },
+      {
+        "question": "How do I create and set up multiple tax rates in the Chase Mobile Checkout app?",
+        "answer": "From the main menu, go to Settings, tap Taxes, and toggle it on. Select Add New Tax, enter the tax name and rate, then tap Save. I can create up to three different tax rates and apply them to individual items or entire sales."
+      },
+      {
+        "question": "How do I process a refund or void through the Chase Mobile Checkout app?",
+        "answer": "Go to Sales Activity, select the transaction date, find the transaction, and choose Refund or Void. For refunds, select either the full amount or a custom amount, and then allow the customer to sign for the refund before completing the transaction."
+      },
+      {
+        "question": "How do I view Sales Activity and transaction details in the Chase Mobile Checkout app?",
+        "answer": "From the main menu, select Sales Activity. Use the calendar icon to filter the transactions by date, and tap on a transaction to view its details. I can also view a summary of transactions for the selected date."
+      },
+      {
+        "question": "How is settlement handled in the Chase Mobile Checkout app?",
+        "answer": "Chase Mobile Checkout automatically settles my transactions daily at 11:30 p.m. EST. I can access settlement reports by logging in to chase.com/business or through my business's alternative reporting solution."
+      },
+      {
+        "question": "How do I resend a receipt to a customer in the Chase Mobile Checkout app?",
+        "answer": "Go to Sales Activity, find the transaction, and tap Resend Receipt. Confirm the customer's email address or phone number and tap Resend to send a digital receipt."
+      },
+      {
+        "question": "What are some best practices when accepting payments via Chase Mobile Checkout?",
+        "answer": "For security, you should use EMV-enabled/chip cards over swiping or manual entry. you should also ensure correct customer information is entered, especially when issuing receipts, and customize receipts with a logo and business details to help manage disputes."
+      },
+      {
+        "question": "How do I get started with taking payments after setting up Chase Mobile Checkout?",
+        "answer": "After setting up the app, you can begin taking payments by launching the app, entering the amount to charge, or selecting items from your Product Catalog. Then, review the order, apply any discounts or taxes, and proceed to checkout."
+      },
+      {
+        "question": "How do I process a quick sale using the Chase Mobile Checkout app?",
+        "answer": "From the NEW SALE screen, enter the charge amount or select items from the Product Catalog, then tap Review sale. After reviewing the order, tap Checkout. The app will connect with your card reader to capture payment details. Follow the prompts to complete the transaction, including inserting or swiping the card or manually entering card information."
+      },
+      {
+        "question": "What should I do if I need to process a refund for a transaction that occurred on the same day?",
+        "answer": "If the transaction occurred on the same day and the batch hasn't been settled, the only option is to void the transaction. The app will automatically recognize whether the transaction can be voided or if a refund is required."
+      },
+      {
+        "question": "How do I set up and manage sales tax options in Chase Mobile Checkout?",
+        "answer": "In the main menu, go to Settings and tap Taxes. Toggle the tax option on and add new tax rates by entering the name and tax rate. You can apply these tax rates to individual items or the entire order, and items in the Product Catalog can be marked as \"tax exempt\" if needed."
+      },
+      {
+        "question": "What should I do if the Chase Mobile Checkout app doesn't recognize my card reader during a transaction?",
+        "answer": "Ensure that the reader is paired correctly via the Chase Mobile Checkout app and not through your device's Bluetooth settings. If issues persist, re-pair the reader by following the pairing instructions, or try powering the reader off and on again."
+      },
+      {
+        "question": "How do I navigate through sales reports and transaction history in the Chase Mobile Checkout app?",
+        "answer": "Access sales reports and transaction history by selecting Sales Activity from the main menu. You can filter transactions by date using the calendar icon or search for specific transactions. Tap on any transaction to view detailed information."
+      },
+      {
+        "question": "What features does the Chase Mobile Checkout app offer to customize the payment experience for my business?",
+        "answer": "The app allows you to customize transaction settings, such as enabling tip percentages, tax rates, and discounts. You can also manage electronic receipts, set up multiple card readers, and customize your business name on receipts."
+      },
+      {
+        "question": "How can I ensure the security of payments when using the Chase Mobile Checkout app?",
+        "answer": "To ensure payment security, prioritize using EMV-enabled/chip cards over swiping or manual entry. This method provides better fraud protection and helps in proving the authenticity of transactions in case of disputes."
+      },
+      {
+        "question": "How do I set up a pairing relationship for multiple Bluetooth card readers in the Chase Mobile Checkout app?",
+        "answer": "You can establish a pairing relationship for up to nine Bluetooth card readers through the Settings screen. Pair each reader individually, and ensure each one is set as an active device if needed."
+      },
+      {
+        "question": "How can I manage electronic receipts through the Chase Mobile Checkout app?",
+        "answer": "Manage electronic receipts by navigating to the Settings screen and selecting the Receipts option. You can configure how receipts are sent (email or text) and customize the appearance by adding your business logo and editing the header and footer fields."
+      },
+      {
+        "question": "How do I apply discounts during a transaction in the Chase Mobile Checkout app?",
+        "answer": "Discounts can be applied at the item level or to the total sale. To apply a discount to the total sale, tap Add discount on the REVIEW ORDER screen. For individual items, select the item from the order list, tap Add discount, and choose to apply a specific amount or percentage."
+      },
+      {
+        "question": "What steps should I take if I need to resend a receipt to a customer?",
+        "answer": "To resend a receipt, go to Sales Activity, select the transaction, confirm or update the customer's email address or phone number, and then tap Resend Receipt."
+      },
+      {
+        "question": "What are the minimum device requirements to use the Chase Mobile Checkout app?",
+        "answer": "The minimum requirements include iOS 11 or Android 6, BLE 4, and Chase Mobile Checkout version 4.1 or later."
+      },
+      {
+        "question": "Why can't I download the app?",
+        "answer": "Your system may not meet the minimum compatibility requirements."
+      },
+      {
+        "question": "Why can't I find the app in the app store to download?",
+        "answer": "You must be using iOS 11 or AndroidT 6.0 to see the app in the app store."
+      },
+      {
+        "question": "Why can't I sign in to the app?",
+        "answer": "Ensure: You have signed a merchant agreement with Chase. You have a mobile account. You are connected to the internet. You have an active username and password. Your username and password were emailed separately when your account was first activated. The password email contains a one-time use password that will require a reset when you sign in for the first time."
+      },
+      {
+        "question": "Why isn't my password working?",
+        "answer": "Ensure: You are spelling it correctly. You enter the case correctly. You can reset your password by tapping \"Forgot Password?\" on the sign-in screen."
+      },
+      {
+        "question": "Why can't I process transactions?",
+        "answer": "Ensure: You are connected to the internet. The reader hasn't been placed in airplane mode (quickly tap the button to restore it). You are in the United States and not close to a border. Your GPS and location services are not disabled."
+      },
+      {
+        "question": "Why isn't the card reader working?",
+        "answer": "The reader can be used by only a single mobile device at a time to perform a transaction. No more than nine mobile devices can be paired to a single reader. If a tenth device is paired, then the first device will be unpaired. You also may want to ensure: The reader is fully charged. The mobile device's Bluetooth is enabled. You've paired the mobile device using the one-time pairing code of six nines (999999), and the reader is set as the default reader. The reader hasn't been placed in airplane mode (quickly tap the button to restore it). If you still cannot process transactions, try turning off your mobile device and turning it back on, then launch the app and sign in."
+      },
+      {
+        "question": "How do I set up additional users or order more card readers?",
+        "answer": "Individual user profiles can be configured in ways that only grant them access to specific functions of Chase Mobile Checkout. To request the setup of additional users, please call Chase Mobile Checkout Support at 1-866-428-4967. To ensure the security of your sensitive data, this can only be completed by the account contact Chase Merchant Services has on record."
+      },
+      {
+        "question": "What mobile devices can I use with Chase Mobile Checkout?",
+        "answer": "The minimum compatibility requirements are iPhoner iOS 11 or AndroidT 6.0. For using card readers, the mobile device must be Bluetooth 4.0 capable."
+      },
+      {
+        "question": "Why am I asked to change my password every 90 days?",
+        "answer": "Using guidance from the Payment Card Industry Data Security Standard (PCI-DSS), Chase asks users to change their password every 90 days. Frequent password renewal decreases the chances for malicious individuals to gain access to your or your customers' sensitive data."
+      },
+      {
+        "question": "How do I know my password is about to expire?",
+        "answer": "During sign-in, the app will notify you when you are five days away from your password's expiration date and again a day before your password expires. Tapping this notification will take you through the password reset process. You can skip these notifications until the password finally expires. The password can be changed at any time by tapping \"Forgot Password?\" on the sign-in screen."
+      },
+      {
+        "question": "How do I locate my sign-in credentials?",
+        "answer": "Once you've signed a merchant agreement with Chase and your account is established, you'll receive two separate emails from Chase containing your username and your password. The password email contains a one-time use password that will require a reset when you sign in for the first time."
+      },
+      {
+        "question": "Can I use an external app to store my account credentials?",
+        "answer": "Yes, utilizing the secure credential storage systems built by some third-party password managers, you can now paste your account credentials directly into the Chase Mobile Checkout sign-in page. However, it is still recommended that you take the necessary security precautions in protecting your account credentials and never leave them in a publicly accessible place."
+      },
+      {
+        "question": "Can I share sign-in credentials among my employees?",
+        "answer": "While mobile devices and card readers can be shared by your employees, each user should have their own user credentials tied to their own email address."
+      },
+      {
+        "question": "Can I sign in to my Chase Mobile Checkout account from multiple mobile devices?",
+        "answer": "Yes, but you may need to complete the device authentication process whenever you access Chase Mobile Checkout from a new mobile device for the first time."
+      },
+      {
+        "question": "Will my current sign-in credentials work each time a new version of Chase Mobile Checkout is released?",
+        "answer": "Yes. We frequently issue new versions to ensure the app is up to date with security and feature enhancements. Simply visit the Appler App Storer or Google PlayT Store to download the new version and receive the latest updates."
+      },
+      {
+        "question": "Will my current sign-in credentials ever expire?",
+        "answer": "Yes. Please keep your Chase Mobile Checkout credentials active by signing in at least every 90 days. Otherwise, your mobile account will be locked and you'll need to reset your password."
+      },
+      {
+        "question": "How do I get a card reader?",
+        "answer": "Contact the Chase Mobile Checkout Support team at 1-866-428-4967 to request a card reader."
+      },
+      {
+        "question": "Why am I no longer prompted for a signature during transactions?",
+        "answer": "Starting in April 2018, payment brands made signature capture optional for all EMV-enabled card readers. Now, when using our card reader, the signature is no longer required for EMV/Chip or magnetic stripe-based transactions. You can enable signature capture in Settings under \"Signature Settings\" if you prefer."
+      },
+      {
+        "question": "What are AVS settings and how do I enable them?",
+        "answer": "Address Verification Service (AVS) is a service provided by the payment brands that determines the match or partial match of the consumer's address information. The responses are returned during the authorization process via your transaction processing software/hardware, helping you determine whether to approve, reject, or flag the transaction. You can enable AVS in Chase Mobile Checkout by visiting Settings, then Transaction Settings."
+      },
+      {
+        "question": "How do I set up my unique tip and tax settings?",
+        "answer": "Chase Mobile Checkout can prompt for a tip during each transaction. This setting can be customized to allow customers to select from up to three suggested tip amounts. You can also create unique tax settings per product or on the entire purchase amount."
+      },
+      {
+        "question": "Can I accept transactions outside of the U.S. with Chase Mobile Checkout?",
+        "answer": "Chase Mobile Checkout can only be used by U.S. and Canadian merchants. The app is only available for U.S.-based businesses. There is a separate app available for businesses located in Canada. Contact Chase for more information on setting up an account for use in Canada."
+      },
+      {
+        "question": "Can I add my business logo to my receipts?",
+        "answer": "Yes, and it is recommended to enhance brand recognition. You can customize your receipts by adding your business logo in the \"Set up and customize your receipts\" section. Make sure your logo file is no larger than 75px high x 350px wide and no bigger than 80 KB in file size."
+      },
+      {
+        "question": "Do I need a network connection to process transactions?",
+        "answer": "Yes. You will need access to a cellular network or internet connection to process transactions. Additionally, location services must be enabled on your mobile device to process payments."
+      },
+      {
+        "question": "Why am I seeing the notification \"Card Reader Not Responding\"?",
+        "answer": "Once a card reader is selected in Settings, the app expects it to be on and available during the transaction process. This notification is displayed if the app cannot communicate with the card reader, often due to lost data connection or power. If communications do not recover, try the troubleshooting steps outlined in the app's help section."
+      },
+      {
+        "question": "Can I use my Chase Mobile Checkout card reader with Online POS Terminal?",
+        "answer": "No. The Chase Mobile Checkout card reader is only for use with a mobile device and cannot be used with a computer-based card processing app. Contact Chase at 1-866-428-4967 to discuss purchasing a separate reader for Online POS Terminal (OPT) or a receipt printer for your computer."
+      }
+    ]
+  },
+  {
+    "page": 7,
+    "source_file": "ingenico_move_5000.txt",
+    "qa_pairs": [
+      {
+        "question": "How do I charge my Ingenico Move/5000 card reader?",
+        "answer": "1. Unpack the reader, charger, and base or accessories. 2. Ensure the reader is powered OFF. 3. Connect the wall/power charger to the card reader directly [A] or to a base [B], [C]. 4. Charge the reader for 16 hours."
+      },
+      {
+        "question": "How do I pair the Ingenico Move/5000 card reader with a Bluetooth base?",
+        "answer": "1. Ensure the card reader is fully charged before pairing. 2. If you purchased a communications base separately, follow these instructions: - Press the square gray Home Menu key to access the Admin Menu. - Select Admin Mode and enter the Admin Password. - Select Tetra Admin. - Select [5] for Configure Bluetooth. - Select [1] for Base. 3. To add a base: - Select [1] to ADD base from the Admin Menu. - Place the reader on the corresponding base (cradle) to complete the pairing process. - If the pairing is successful, no further action is needed. 4. To select a base: - Select [2] to SELECT base from the Admin Menu. - Choose the base by matching the value to the last 7 digits of the S/N value located on the bottom of the base. - If there are multiple bases, the card reader will display values for the additional bases."
+      },
+      {
+        "question": "How do I remove a Bluetooth base from the Ingenico Move/5000 card reader?",
+        "answer": "1. Follow these instructions only if you purchased a communications base separately: - Press the square gray Home Menu key to access the Admin Menu. - Select Admin Mode and enter the Admin Password. - Select Tetra Admin. - Select [5] for Configure Bluetooth. - Select [1] for Base. 2. To remove a paired base: - Press the square green key to complete the removal process. - Once removal is complete, no further action is needed."
+      },
+      {
+        "question": "How do I pair the Ingenico Move/5000 card reader with Wi-Fi?",
+        "answer": "1. Follow the instructions provided in the user guide or access in-reader support by pressing the gray Admin key. 2. Press anywhere on the screen and swipe from right to left. 3. The Self-Help icon will display; press the icon to begin the in-reader support for Wi-Fi pairing."
+      },
+      {
+        "question": "How do I process a sale with the Ingenico Move/5000 card reader?",
+        "answer": "1. Press the square green key to access the main menu. 2. Press [0] or the blue shopping cart \"Sale\" icon on the touch screen. 3. Enter the sale amount and press the square green key. 4. Customers can tap, insert, or swipe their card. If a chip card is used, leave it inserted until instructed to remove it. 5. When the screen says \"Approved,\" customers will be prompted to remove their card. 6. Your receipt will automatically print. To print a customer’s receipt, press the square green key. If no selection is made after 30 seconds, a receipt will print automatically. 7. When the sale is complete, the main menu will reappear."
+      },
+      {
+        "question": "How do I process a return or refund with the Ingenico Move/5000 card reader?",
+        "answer": "1. Press the square green key to access the main menu. 2. Press [1] or the blue package carrier \"Return\" icon on the touch screen. 3. Enter the supervisor password and press the square green key. 4. Enter the return amount and press the square green key. 5. Customers can tap, insert, or swipe their card. If a chip card is used, leave it inserted until instructed to remove it. 6. When the transaction is approved, your receipt will automatically print. 7. If a signature is required, have the customer sign your copy of the receipt. 8. Press the square green key again to print the customer’s receipt, if desired. If no selection is made after 30 seconds, a receipt will print automatically. 9. When the return is complete, the main menu will reappear."
+      },
+      {
+        "question": "How do I include a tip in a sale with the Ingenico Move/5000 card reader?",
+        "answer": "1. Pass the card reader to the customer to enter the tip amount. 2. The customer can press [1] for tip percentage, [2] for tip amount, or [0] for no tip. 3. The customer enters the tip amount and presses [1] to Accept or [2] to Change. 4. The customer then taps, inserts, or swipes their card. Note: If you need to configure your card reader to process tips, please call 1-888-886-8869 to speak with a specialist."
+      },
+      {
+        "question": "How do I void a sale on the Ingenico Move/5000 card reader?",
+        "answer": "1. Press the square green key to access the main menu. 2. Press [2] or the blue shopping cart with a line going through it \"Void\" icon on the touch screen. 3. Enter the supervisor password and press the square green key. 4. Use the search menu to locate transactions by selecting: - [1] - All - [2] - Reference # - [3] - Clerk # - [4] - Invoice #/PO# - [5] - Account # - [6] - Customer # - [7] - RRN - [8] - Approval code 5. Enter the relevant information based on transaction type and press the square green key. 6. If \"ALL\" is selected, use the arrow keys to scroll through transactions and press the square green key to select the transaction to be voided. 7. The card reader will prompt you to confirm the void amount. Press [1] for YES or [2] for NO. 8. Once the void is confirmed, your receipt will automatically print. 9. To print a customer’s receipt, press the square green key. If no selection is made after 30 seconds, a receipt will print automatically. 10. When the void is complete, the main menu will reappear."
+      },
+      {
+        "question": "How do I change the date or time on my Ingenico Move/5000 card reader?",
+        "answer": "1. The admin passcode may be required to update the date and time. 2. Press the gray/white Admin Key to access the Admin Menu, then select Admin Mode. 3. If prompted, input the Admin passcode and press the green enter key. 4. To change the date and time: - Select Tetra Admin, then select Set Date and Time. - To change the date: Input 6 digits for the two-digit day, two-digit month, and two-digit year, then press Enter. Be careful when entering the date and time, as an invalid year may render the terminal inoperable. - To change the time: Use a military time format to input 4 total digits, 2 for the hour and 2 for the minute, then press Enter. 5. The card reader may prompt to reboot for the changes to take effect and return to the idle screen once restarted."
+      }
+    ]
+  },
+  {
+    "page": 8,
+    "source_file": "magtek_edynamo_card_reader.txt",
+    "qa_pairs": [
+      {
+        "question": "What is the Chase Mobile Card Reader and how does it work?",
+        "answer": "The Chase Mobile Card Reader is a Black MagTek eDynamo device used with the Chase Mobile Checkout app. It works with Chase Mobile Checkout App version 4.0 or later and connects via Bluetooth."
+      },
+      {
+        "question": "How do I pair the Chase Mobile Card Reader with my device?",
+        "answer": "To pair the card reader, ensure Bluetooth is enabled on your device. In the Chase Mobile Checkout app, go to Settings, tap Card Readers, and then press and hold the button on the card reader for two seconds to enter pairing mode. Locate the card reader's serial number and select it in the app, then enter the default pairing code (999999) and tap Pair. Toggle on the Set As Current Device switch when the status changes to Connected."
+      },
+      {
+        "question": "What should I do once my card reader arrives?",
+        "answer": "Charge the card reader for three hours using the provided USB cable. The LED will blink green while charging and turn solid green when fully charged. The reader can be used while charging."
+      },
+      {
+        "question": "How do I navigate the Chase Mobile Checkout app?",
+        "answer": "The app home screen defaults to the NEW SALE screen. You can access features like New Sale, Edit Catalog, Sales Activity, Other Reports, Settings, Notifications, and Support by tapping the menu icon at the top left of your screen."
+      },
+      {
+        "question": "How do I customize my payments experience in the Chase Mobile Checkout app?",
+        "answer": "Go to the SETTINGS screen to customize transaction settings, enable signature prompts, set tip percentages and tax rates, manage electronic receipts, and establish pairing relationships for multiple card readers."
+      },
+      {
+        "question": "How do I create and manage my product catalog?",
+        "answer": "Tap Edit Catalog from the main navigation menu. To create or edit an item, enter its name, price, and category. You can also add a photo of the item and save it to your catalog."
+      },
+      {
+        "question": "How can I customize my receipts in Chase Mobile Checkout?",
+        "answer": "Go to Settings and select Receipts. Upload a PNG logo (75px high x 350px wide, no larger than 80 KB), and edit the receipt Header and Footer fields. Tap Update to confirm changes."
+      },
+      {
+        "question": "How do I process a quick sale using Chase Mobile Checkout?",
+        "answer": "From the NEW SALE screen, enter the amount or select items from your Product Catalog. Review the order, apply any discounts or taxes, then tap Checkout. Connect to your card reader to capture payment, authorize the transaction, and send a receipt if enabled."
+      },
+      {
+        "question": "How can I set up and apply sales tax options in the app?",
+        "answer": "From the Settings menu, select Taxes, toggle on the option to apply tax, and add new tax rates. You can set up to three tax amounts and apply them to individual items or the entire order."
+      },
+      {
+        "question": "How do I apply discounts in Chase Mobile Checkout?",
+        "answer": "Toggle on the Discounts switch in the SETTINGS screen. You can apply discounts to the total sale or individual items by selecting the appropriate option in the REVIEW ORDER screen."
+      },
+      {
+        "question": "What steps should I follow to process a refund or void a transaction?",
+        "answer": "Select Sales Activity from the main menu, find the transaction date, and view Transaction Details. Tap Refund or Void, select the amount, and have the customer sign for the transaction. Enter the customer's email or phone number to send a digital receipt."
+      },
+      {
+        "question": "How can I view sales activity and settlement reports?",
+        "answer": "Access Sales Activity from the main navigation menu to view transaction details. Settlement reports are available through chase.com/business or your business's reporting solution. Chase Mobile Checkout automatically settles transactions daily at 11:30 p.m. EST."
+      },
+      {
+        "question": "How do I resend a receipt to a customer?",
+        "answer": "Go to Sales Activity, select the transaction date, find the transaction, and tap Resend Receipt. Confirm or update the customer's email or phone number, and the receipt will be resent to both you and the customer."
+      },
+      {
+        "question": "What should I do if I can't download the Chase Mobile Checkout app?",
+        "answer": "Ensure your system meets the minimum compatibility requirements. If you're unable to find the app in the app store, verify that you are using iOS 11 or AndroidT 6.0 or later."
+      },
+      {
+        "question": "What should I check if I can't sign in to the Chase Mobile Checkout app?",
+        "answer": "Confirm the following: You have signed a merchant agreement with Chase. You have a mobile account. You are connected to the internet. You have an active username and password. Your username and password were emailed separately when your account was activated. The password email contains a one-time use password that will require a reset on your first sign-in."
+      },
+      {
+        "question": "What can I do if my password isn't working?",
+        "answer": "Ensure that you are spelling the password correctly and entering it with the correct case. If needed, you can reset your password by tapping \"Forgot Password?\" on the sign-in screen."
+      },
+      {
+        "question": "What should I do if I can't process transactions?",
+        "answer": "Verify that: You are connected to the internet. The card reader has not been placed in airplane mode (tap the button to restore it). You are within the United States and not near a border. Your GPS and location services are enabled."
+      },
+      {
+        "question": "What if the card reader doesn't seem to be working?",
+        "answer": "Ensure that: The card reader is fully charged. Bluetooth is enabled on your mobile device. The reader has been paired with your mobile device using the one-time pairing code (999999) and is set as the default reader. The reader is not in airplane mode (tap the button to restore it)."
+      },
+      {
+        "question": "How do I set up additional users or order more card readers?",
+        "answer": "To request the setup of additional users or order more card readers: Call Chase Mobile Checkout Support at 1-866-428-4967. Only the account contact Chase Merchant Services has on record can complete this request to ensure the security of your sensitive data."
+      },
+      {
+        "question": "What mobile devices can I use with Chase Mobile Checkout?",
+        "answer": "The minimum compatibility requirements for Chase Mobile Checkout are iPhoner iOS 11 or AndroidT 6.0. For using card readers, the mobile device must support Bluetooth 4.0 or later."
+      },
+      {
+        "question": "Why am I asked to change my password every 90 days?",
+        "answer": "This policy follows the Payment Card Industry Data Security Standard (PCI-DSS) guidelines. Frequent password changes reduce the risk of unauthorized access to sensitive data."
+      },
+      {
+        "question": "How do I know my password is about to expire?",
+        "answer": "The app will notify you when you are five days away from your password's expiration date and again a day before it expires. Tapping this notification will guide you through the password reset process. You can also reset your password anytime by tapping \"Forgot Password?\" on the sign-in screen."
+      },
+      {
+        "question": "How do I locate my sign-in credentials?",
+        "answer": "After signing a merchant agreement with Chase and establishing your account, you will receive two separate emails containing your username and a one-time use password. The password will need to be reset when you sign in for the first time."
+      },
+      {
+        "question": "Can I use an external app to store my account credentials?",
+        "answer": "Yes, you can use secure credential storage systems from third-party password managers to paste your credentials into the sign-in page. However, it's recommended to protect your credentials carefully and avoid storing them in publicly-accessible places."
+      },
+      {
+        "question": "Can I share sign-in credentials among my employees?",
+        "answer": "While mobile devices and card readers can be shared, each employee should have their own user credentials linked to their own email address for security purposes."
+      },
+      {
+        "question": "Can I sign in to my Chase Mobile Checkout account from multiple mobile devices?",
+        "answer": "Yes, but you may need to complete the device authentication process each time you access CMC from a new mobile device. Refer to the setup instructions for details on device authentication."
+      },
+      {
+        "question": "Will my current sign-in credentials work with new versions of CMC?",
+        "answer": "Yes, your credentials will continue to work with new versions of CMC. Simply download the latest version from the Appler App Storer or Google PlayT Store to receive updates."
+      },
+      {
+        "question": "Will my current sign-in credentials ever expire?",
+        "answer": "To keep your credentials active, sign in at least every 90 days. Otherwise, your account will be locked, and you will need to reset your password."
+      },
+      {
+        "question": "How do I get a card reader?",
+        "answer": "Contact Chase Mobile Checkout Support at 1-866-428-4967 to request a card reader."
+      },
+      {
+        "question": "Why am I no longer prompted for a signature during transactions?",
+        "answer": "Since April 2018, signature capture has become optional for EMV-enabled card readers. You can enable signature capture in the app's Settings under Signature Settings."
+      },
+      {
+        "question": "What are AVS settings and how do I enable them?",
+        "answer": "Address Verification Service (AVS) checks if the consumer's address information matches the records during authorization. You can modify AVS settings in the app by going to Settings and then Transaction Settings."
+      },
+      {
+        "question": "How do I set up my unique tip and tax settings?",
+        "answer": "CMC allows you to prompt for tips during transactions and create up to three suggested tip amounts. You can also set up unique tax settings for individual products or for the entire purchase amount."
+      },
+      {
+        "question": "Does Chase Mobile Checkout allow me to accept transactions outside of the U.S.?",
+        "answer": "Chase Mobile Checkout is only available for U.S.-based businesses. Canadian businesses need a separate app. Contact Chase Mobile Checkout Support for more information about setting up an account in Canada."
+      },
+      {
+        "question": "Can I add my business logo to my receipts?",
+        "answer": "Yes, you can add your business logo to receipts. Refer to the \"Set up and customize your receipts\" section for details. Logos must be in PNG format, no larger than 75px high x 350px wide, and not exceed 80 KB."
+      },
+      {
+        "question": "Do I need a network connection to process transactions?",
+        "answer": "Yes, a cellular network or internet connection is required to process transactions. Location services must also be enabled on your mobile device."
+      },
+      {
+        "question": "Why do I see the notification \"Card Reader Not Responding\"?",
+        "answer": "This notification appears if the app cannot communicate with the card reader due to lost data connection or power issues. Check for connectivity issues and refer to the troubleshooting section for further assistance."
+      },
+      {
+        "question": "Can I use my Chase Mobile Checkout card reader with Online POS Terminal?",
+        "answer": "No, the Chase Mobile Checkout card reader is only for use with a mobile device. Contact Chase Mobile Checkout Support at 1-866-428-4967 to discuss purchasing a separate reader for Online POS Terminal (OPT) or a receipt printer for your computer."
+      }
+    ]
+  },
+  {
+    "page": 9,
+    "source_file": "online_pos_termminal.txt",
+    "qa_pairs": [
+      {
+        "question": "How do I activate a gift card?",
+        "answer": "To activate a gift card, follow these steps: Select Activation from the Gift card menu. Enter the card number, amount, and any additional details required. Click the Next button. On the Response page, confirm the activation approval."
+      },
+      {
+        "question": "Can I activate multiple gift cards at once?",
+        "answer": "Yes, you can activate multiple gift cards by entering the first card number and then specifying the number of additional cards in the Number of additional cards field. For block transactions, you can view the status of your request in blocks of 100 cards by clicking the Block Activation Summary results link."
+      },
+      {
+        "question": "How do I reactivate a gift card?",
+        "answer": "To reactivate a gift card, select Reactivation from the Gift card menu, fill in the necessary fields, and submit the transaction."
+      },
+      {
+        "question": "When should I deactivate a gift card?",
+        "answer": "You should deactivate a gift card if it has been lost or stolen to prevent it from being redeemed. This will allow you to issue a new gift card to the customer."
+      },
+      {
+        "question": "How do I issue a gift card?",
+        "answer": "To issue a gift card: Select Issue or add value from the Gift card menu. Enter the card number, amount, and any additional details. Ensure the New issuance or add value radio button is selected. Click the Checkout button. On the Response page, review the issuance details and whether it was approved or declined. Optionally, enter the customer's mobile number or email for a digital receipt and choose to print receipts if desired."
+      },
+      {
+        "question": "What should I do if I can't access Online POS Terminal but need to issue a gift card?",
+        "answer": "If you can't access Online POS Terminal, you can use voice authorization: Call 1-888-959-1493 to receive an approval code. Perform the Prior Issuance process by selecting Issue or add value, choosing the Force issuance or add value radio button, entering card details and the approval code, and then clicking the Checkout button."
+      },
+      {
+        "question": "How do I redeem a gift card?",
+        "answer": "To redeem a gift card: Select Redemption from the Gift card menu. Enter the card number, amount, and any additional details. Ensure the New redemption radio button is selected. Click the Checkout button. On the Response page, review the redemption details and whether it was approved or declined. Optionally, enter the customer's mobile number or email for a digital receipt and choose to print receipts if desired."
+      },
+      {
+        "question": "What should I do if I can't access Online POS Terminal but need to redeem a gift card?",
+        "answer": "If you can't access Online POS Terminal, use voice authorization: Call 1-888-959-1493 to get an approval code. Perform the Prior Redemption process by selecting Redemption, choosing the Force redemption radio button, entering card details and the approval code, and then clicking the Checkout button."
+      },
+      {
+        "question": "How do I check the balance of a gift card?",
+        "answer": "To check the balance of a gift card: Select Balance inquiry from the Gift card menu. Enter the card information by swiping or manually entering the numbers. Review the card details and current balance on the response screen. Alternatively, customers can call the Interactive Voice Response System at 1-800-242-5353 to check the balance and recent transactions."
+      },
+      {
+        "question": "How can I provide receipts to customers after a transaction?",
+        "answer": "After processing a transaction, you can provide receipts in several ways: Text: Enter the customer's 10-digit phone number and click the Send Receipt button. A text message will be sent from short code \"27359\" with transaction details. Email: Enter the customer's email address and click the Send Receipt button. An email with the receipt as an image file will be sent from \"DoNotReply@billing-notification.com.\" Print: Click Print Customer Receipt, Print Merchant Receipt, or Print Both to print copies of the receipt. The Epson TM-T20II thermal receipt printer is recommended."
+      },
+      {
+        "question": "How do I process a refund using Online POS Terminal?",
+        "answer": "To process a refund: Click the New transaction tab. Select the Refund tab. Complete the required fields marked with an asterisk. Click the Issue refund button to finalize the transaction."
+      },
+      {
+        "question": "How do I manually settle open transactions in Quick Batch View?",
+        "answer": "To settle open transactions manually: Click the Quick Batch view icon to see a snapshot of your open batch. In the Open Batch section, click View Items to see all open transactions, or click Settle Batch to manually settle the batch. If there are rejected transactions, click View Items to see them or Re-Settle to address any issues after correcting account settings."
+      },
+      {
+        "question": "What is the batch life cycle for transactions?",
+        "answer": "The batch life cycle includes: Open: Transactions are collected and either manually settled or automatically closed. Pending: Transactions are grouped into a batch with a Pending status. Closed or Rejected: The batch is considered Closed if it settles properly or Rejected if it does not. You can view items and settle batches manually or view and resettle rejected transactions."
+      },
+      {
+        "question": "How can I view and manage transactions in the Back Office?",
+        "answer": "In the Back Office: Transaction Management: Use the Transactions drop-down menu to search by All, Open, Pending, or Rejected items. You can filter by Date range, Account number, or Amount range. Calendar: Use the Date range to pull up the calendar and select the date to review transactions. Void: If a transaction is in an open batch, you can highlight it and select Void to remove it without charging the customer. Refund: For transactions in a closed batch, you can highlight it and select Refund to refund the full or partial amount of the original purchase."
+      },
+      {
+        "question": "How do I generate and access reports from Online POS Terminal?",
+        "answer": "To generate and access reports: Reporting: Select Report from the Transactions menu, choose CSV for Excel export or PDF for printing. Batch History: Access Batch history by selecting a Date Range or Batch Range. Queued Reports: Reports will show as Queued until complete, at which point the status will update to Complete. Card Type Summary: View card type activity by day, week, month, or quarter. Sales Trends: View transaction activity by selecting Sales trends and searching by Date range."
+      },
+      {
+        "question": "What should I do if the screen locks up during a transaction?",
+        "answer": "If the screen locks up: Right-click your mouse. Select Reload page. Repeat the previous steps to complete the transaction."
+      },
+      {
+        "question": "What support is available if I need help with Online POS Terminal?",
+        "answer": "For support: Call 1-800-503-1132 for assistance from customer service. For questions about fees or general support, visit chase.com/ManageMyMerchantAccount."
+      },
+      {
+        "question": "What is Online POS Terminal, and how can it benefit my business?",
+        "answer": "Online POS Terminal is a browser-based application that allows you to process card-present transactions using a PC or laptop with an Internet connection and Ingenico iPP 320 PIN Pad. It simplifies payment processing, supports various transaction functions, and offers secure login and thermal receipt printing. It also provides options for auto or manual batch settlement and quick transaction retrieval."
+      },
+      {
+        "question": "What costs are associated with using Online POS Terminal?",
+        "answer": "Costs vary based on your specific needs and merchant service agreement. There is no standard cost as it is customized for each business."
+      },
+      {
+        "question": "Does Online POS Terminal offer fraud-detection services?",
+        "answer": "Yes, Online POS Terminal supports: Address Verification Service (AVS): Compares the customer's billing address with the address on file with the credit card company. Card Verification Data: Uses a code printed on the card to verify transactions where the physical card is not present."
+      },
+      {
+        "question": "Can I process purchasing cards with Online POS Terminal?",
+        "answer": "Yes, Online POS Terminal supports processing purchasing cards with Level II data."
+      },
+      {
+        "question": "Can Online POS Terminal be used outside of the office?",
+        "answer": "Yes, Online POS Terminal can be accessed from anywhere with a secure Internet connection and a web browser."
+      },
+      {
+        "question": "How long does Online POS Terminal store transaction history?",
+        "answer": "Online POS Terminal stores transaction history for six months. You can search by card account number, invoice number, or date range."
+      },
+      {
+        "question": "Can I access merchant statements from Online POS Terminal?",
+        "answer": "No, while you can retrieve batch totals and transaction details, financial statements are accessed through your Chase online account."
+      },
+      {
+        "question": "Does Online POS Terminal support other payment processors?",
+        "answer": "No, Online POS Terminal is a proprietary system of Chase and is only available to Chase merchants. To use it, you must have a Chase merchant account."
+      },
+      {
+        "question": "If I have an existing merchant account with Chase, can I use Online POS Terminal?",
+        "answer": "In some cases, existing merchant numbers can be used to set up Online POS Terminal access. However, new identification numbers may be required in other cases."
+      },
+      {
+        "question": "Is Online POS Terminal available 24/7?",
+        "answer": "Yes, Online POS Terminal is available 24/7 with an automatic time-out feature after 15 minutes of inactivity for security purposes."
+      },
+      {
+        "question": "Can I have multiple Online POS Terminal accounts?",
+        "answer": "Yes, you can have multiple Online POS Terminal accounts, each associated with a different merchant identification number. The system also supports multiple terminals for managing separate batches."
+      },
+      {
+        "question": "Do I need to close out the terminal every day?",
+        "answer": "Yes, you must settle batches daily. You can either do this manually or enable Auto Settle during setup for automatic daily batch closure."
+      },
+      {
+        "question": "How do I correct an error in data entry?",
+        "answer": "If you make an error, you can use the Void feature to reverse transactions within an open batch or issue a refund for transactions already settled."
+      },
+      {
+        "question": "Where can I get support if I have questions?",
+        "answer": "For support, contact the staffed support center 24/7 at 800.934.7717 or use the toll-free number and email address provided during setup."
+      }
+    ]
+  },
+  {
+    "page": 10,
+    "source_file": "orbital_virtual_terminal.txt",
+    "qa_pairs": [
+      {
+        "question": "How do I process a sale with a voice authorization?",
+        "answer": "If there's a power failure or system outage, you can continue authorizing sales using the voice authorization system. Once the system is back up, add the voice authorization detail to your Orbital Virtual Terminal batch using a force transaction. On the New Order menu, select \"Force.\" Enter the card number, expiration date, card verification number, sale amount, and a unique order ID. In the Prior Auth Approval Code field, enter the number received from the voice authorization system. Enter any other required transaction information and click either \"Force\" to put a hold on funds or \"Force and Capture\" to include the transaction in the next settled batch."
+      },
+      {
+        "question": "How do I verify an account?",
+        "answer": "On the New Order menu, select \"Account Verification.\" Enter the cardholder information and click the Verify button."
+      },
+      {
+        "question": "How do I view batch and transaction details?",
+        "answer": "To view details in an open batch, click the \"Open Batch\" menu option. To view details for a closed batch or transactions, select \"Batch Search\" or \"Transaction Search\" under the Review menu. Enter or select your report criteria, select \"Detailed Transactions\" from the Query Type dropdown, and click the Search button. Then select the appropriate item and click the \"Batch Details\" or \"View Order\" command button."
+      },
+      {
+        "question": "How do I create customer profiles?",
+        "answer": "On the Admin menu, select \"Profile Management\" and click the \"New Profile\" button. Enter the necessary information for the customer. To enable recurring payments, select the \"Add Managed Billing - Recurring\" checkbox. To customize the billing pattern, select the \"Override Defaults\" checkbox and specify the new pattern. Click the Add button when finished. You can also create a profile when processing a transaction by selecting the \"Add to Profile Management\" checkbox on the New Order page."
+      },
+      {
+        "question": "How do I set up managed billing?",
+        "answer": "On the Admin menu, select \"Profile > Managed Billing.\" Create a billing pattern based on day, week, or month, and click the Save button. This pattern will apply to all customer profiles enabled for recurring payments. To alter or enable recurring payments for a specific profile, select \"Profile Management\" from the Admin menu, search for the profile, and click \"Edit/View Profile.\" Select the \"Add Managed Billing - Recurring\" checkbox and customize the billing pattern if needed. Click the Add button when finished."
+      },
+      {
+        "question": "How do I set up additional users?",
+        "answer": "Contact Gateway Support at 1-800-254-9556 to request the setup of additional users. Account verification and contact authentication will be required."
+      },
+      {
+        "question": "How do I locate my merchant number?",
+        "answer": "Your merchant number (Merchant ID) is located across the top-middle of the Virtual Terminal screen above any transaction information and on the front of your merchant statement, available in the online reporting application, Resource Online."
+      },
+      {
+        "question": "How do I get additional help?",
+        "answer": "For technical trouble, contact Gateway Support at 1-800-254-9556. For questions about fees or general support, call Chase Merchant Services at 1.888.886.8869."
+      },
+      {
+        "question": "What is Virtual Terminal?",
+        "answer": "The Orbitalr Virtual Terminal is a Web-based application for key-entered transactions and payment management functions, replacing a physical POS system. It requires only a computer with a secure Internet connection and a Web browser."
+      },
+      {
+        "question": "What are the features of the Virtual Terminal?",
+        "answer": "It simplifies payments infrastructure, supports credit card transactions (authorization, refunds, voids), provides batch and transaction management, allows automatic or manual batch settlement, offers quick order retrieval, and ensures secure login with multi-tiered access."
+      },
+      {
+        "question": "Does the virtual terminal support card-not-present transactions?",
+        "answer": "Yes, the Orbital Virtual Terminal supports card-not-present transactions, including authorization only, authorization and capture, refunds, and voids. It also supports card-present and PIN debit transactions."
+      },
+      {
+        "question": "Does the Orbital Virtual Terminal offer fraud detection services?",
+        "answer": "Yes, it supports Address Verification System (AVS), Card Verification values (CVV, CVV2, CID), and Account Verification."
+      },
+      {
+        "question": "Can I process purchasing cards?",
+        "answer": "Yes, you can process purchasing cards with Level II and Level III data via the Virtual Terminal."
+      },
+      {
+        "question": "Can I process electronic checks with Orbital Virtual Terminal?",
+        "answer": "Your company may be able to process electronic checks."
+      },
+      {
+        "question": "Can I process in currencies other than U.S. dollars?",
+        "answer": "Your company may qualify for international currency services."
+      },
+      {
+        "question": "Can I issue refunds through the Orbital Virtual Terminal?",
+        "answer": "Yes, select the \"Credit\" option from the New Order menu, enter the required data, and click the Credit button. You can also perform a quick credit by looking up transactions under the Review tab."
+      },
+      {
+        "question": "Can I use the Orbital Virtual Terminal outside my office, such as at a tradeshow?",
+        "answer": "Yes, you can access the Orbital Virtual Terminal from anywhere with a secure Internet connection and a Web browser."
+      },
+      {
+        "question": "Can I use the Orbital Virtual Terminal to authorize items and then settle them through another processing interface?",
+        "answer": "Some merchants can use this feature, but it is mandatory to include the original authorization code and date, order number, merchant ID, and card number in the settlement process. Contact your Relationship Manager or call 800.708.3740 for more information."
+      },
+      {
+        "question": "Is transaction history retained?",
+        "answer": "Yes, the Orbital Virtual Terminal stores transaction history for six months. You can search by card account number, order number, or date range."
+      },
+      {
+        "question": "Are merchant statements available with the Orbital Virtual Terminal?",
+        "answer": "No, merchant statements are not available from the Virtual Terminal. For financial and settlement reports, discuss with your Relationship Manager or call 800.708.3740."
+      },
+      {
+        "question": "Does Orbital Virtual Terminal support other payment processors?",
+        "answer": "No, it is a proprietary system of Chase Merchant Services and is only available to their merchant base."
+      },
+      {
+        "question": "If I have an existing merchant account with Chase Merchant Services, can I use Orbital Virtual Terminal?",
+        "answer": "In some cases, existing merchant numbers can be used. Contact your Relationship Manager to find out if a new ID is needed."
+      },
+      {
+        "question": "How long does it take to set up the Virtual Terminal?",
+        "answer": "The Virtual Terminal is typically activated within 48 hours after your merchant account is approved and set up."
+      },
+      {
+        "question": "Is the system available for use anytime?",
+        "answer": "Yes, the system is available 24/7 with an automatic time-out feature after 20 minutes of inactivity."
+      },
+      {
+        "question": "Do I need separate logins for multiple users?",
+        "answer": "Yes, each user is provided a unique login with flexible access permissions. You can establish different levels of access for different users."
+      },
+      {
+        "question": "Can I have multiple Virtual Terminals?",
+        "answer": "Yes, each Orbital Virtual Terminal account represents one merchant ID. You can have multiple Virtual Terminals for different merchant IDs."
+      },
+      {
+        "question": "Does the terminal capture items to be charged to a cardholder?",
+        "answer": "Yes, if you only authorize an item, you need to mark it for capture. If the item was processed as an authorize-and-capture transaction, no additional steps are needed."
+      },
+      {
+        "question": "Do I have to close out the terminal every day?",
+        "answer": "Yes, you must close out the terminal daily by either logging in and closing batches or setting up an Auto-Close option."
+      },
+      {
+        "question": "Does the system report activity by user login?",
+        "answer": "Yes, you can search and generate reports based on user login activity."
+      },
+      {
+        "question": "How do I authorize a card?",
+        "answer": "After logging in, use the New Order screen to either authorize only or authorize and capture a card transaction."
+      },
+      {
+        "question": "How do I charge a cardholder?",
+        "answer": "Authorize and capture the transaction. You can choose to do this in one step or separately. Ensure you settle open batches manually or with the auto-close feature."
+      },
+      {
+        "question": "If I make an error entering data, how do I correct it?",
+        "answer": "If you haven't executed the function yet, use the Clear button to start over. If completed, use the Void feature to cancel the transaction."
+      },
+      {
+        "question": "If I have a question, where do I go for support?",
+        "answer": "For support questions, you can use the toll-free number and email address provided at setup, available 24/7."
+      }
+    ]
+  },
+  {
+    "page": 11,
+    "source_file": "verifone_vx520_680.txt",
+    "qa_pairs": [
+      {
+        "question": "How do I connect my Verifone card reader?",
+        "answer": "1. Select a location for your Verifone card reader near a power outlet and an Internet router, modem, or wall jack that is convenient for the operator and offers adequate ventilation and protection for the equipment. - If you are using the charging base for the Bluetooth card reader, follow the same instructions to connect the base and select a location. - If you are connecting your Verifone card reader to a telephone line, plug one end of a standard telephone cord into the phone port on the card reader and the other end into your telephone wall jack. **Note:** For optimal performance, we suggest using the provided phone cable on a dedicated phone line, and not connecting through a splitter. 2. If you are going to use an Internet connection, plug one end of an Ethernet cable into the card reader's Ethernet port, which may be labeled as \"ETH\" or \"10Base-T.\" Plug the other end into your router, modem, or Ethernet wall jack. **Note:** You can connect both Internet and phone cables to the Verifone card reader so that it can automatically switch over in the event of Internet connectivity problems. 3. Make sure that one end of the power cord is plugged into the adapter, and then plug the other end into an indoor outlet. - Attach the small plug on the adapter cord to the power port on the rear of the Verifone card reader. **Important:** Never plug a PIN pad into a powered-on card reader – it could damage the equipment. For assistance connecting a peripheral PIN pad to your Verifone card reader, please contact the Help Desk at 1-888-886-8869."
+      },
+      {
+        "question": "What are the payment processing methods available on the Verifone card reader?",
+        "answer": "1. **Insert:** If the customer has an EMV chip card, and your Verifone card reader is enabled to accept EMV transactions, the customer should insert their card into the chip card slot, which is on the front of the card reader, beneath the colored keys. 2. **Swipe:** The customer can swipe their card down the magnetic-stripe reader on the right side of the Verifone card reader. 3. **Tap:** If the customer has a contactless payment instrument, such as a contactless card or a mobile wallet on a smartphone, they should tap or wave it directly over the card reader's display screen. 4. **Manual Entry:** You can key the card number into the Verifone card reader if the card or card reader does not accept the other transmission methods, but this could cause the transaction to downgrade and incur a higher interchange fee. **Note:** Steps may differ slightly if you're using a separate PIN pad with your Verifone card reader."
+      },
+      {
+        "question": "How do I manually key in a sale (card-not-present transaction) on the Verifone card reader?",
+        "answer": "1. Select \"Sale\" from the main menu. 2. Enter the sale amount using the keypad and press Enter. If prompted to pass the terminal to the customer, bypass by pressing Enter again. 3. When prompted to Tap/Insert/Swipe/Key, simply enter the card number using the keypad. 4. Enter the card expiration date, then press Enter. 5. Enter the CVV security code, then press Enter. 6. Enter the customer Zip code associated with the cardholder’s address. When you hit Enter, you will see \"Dialing/Connecting…\""
+      },
+      {
+        "question": "How do I refund a transaction on the Verifone VX680 card reader?",
+        "answer": "1. Select \"Refund\" from the main screen. 2. Enter the dollar amount of the refund. 3. Confirm the refund amount. 4. Select \"Yes\" to confirm. 5. Press the green [Enter] key. 6. A receipt will print to complete the transaction."
+      },
+      {
+        "question": "How do I void a transaction on the Verifone card reader?",
+        "answer": "For VX520: 1. From the main screen, press [F4] to select \"Void.\" 2. To void the most recent transaction, press [F1]. - Review the transaction and once confirmed, press [F1] again to void it. 3. If you want to void a different transaction, search for it by pressing [F2]. - Press [F1] to search in the current batch of unsettled transactions. - Press [F2] to search for authorization-only transactions. - Once you've selected the proper batch of transactions, press [F1] to search by invoice number, or press [F2] to search by account number. - When the transaction detail displays, review the transaction and once confirmed, press [F1] to void it. For VX680: 1. Select \"Void\" from the menu screen. 2. To void the last transaction, select \"Yes.\" 3. Confirm the \"Yes\" screen is displaying the correct void amount, and enter the last four digits of the customer's card number. 4. Press \"Yes\" to confirm. 5. The receipt will print and the void is complete. 6. If you need to void another transaction, search for the transaction by the amount or the last four digits of the customer's card number. Follow the prompts to locate the transaction and select \"Yes\" when the transaction is displayed. The receipt will print and the void is complete."
+      },
+      {
+        "question": "How do I add a tip on a transaction using the Verifone card reader?",
+        "answer": "For VX520: 1. Press the second purple hot key from the left to open the Tip Adjust menu. 2. There are several ways to identify the transaction to be adjusted: - To search using the clerk/server ID who entered the transaction, press [F1]. - To search using the amount of sale, press [F2]. - To search using the last four digits of the customer's card number, press [F3]. - To search using the invoice number (printed on the receipt), press [F4]. 3. When the transaction detail displays, confirm it is the correct transaction and press [F1]. 4. Enter the tip amount, press [Enter], and you'll be done. For VX680: 1. Press the $ Icon to open the Tip Adjust menu. 2. There are several ways to identify the transaction to be adjusted: - To search using the clerk/server ID who entered the transaction, press [F1]. - To search using the amount of sale, press [F2]. - To search using the last four digits of the customer's card number, press [F3]. - To search using the invoice number (printed on the receipt), press [F4]. 3. Follow the prompts on your screen to locate the sale. When the transaction detail displays, press [F1] to confirm that this is the transaction you'd like to add a tip to. 4. Enter the tip amount, press [Enter], and you'll be done. **Note:** You can only add a tip to transactions in your current (open) batch. If the Tip Adjust option is not available on your Verifone card reader screen, call the Help Desk at 1-888-886-8869 to discuss modifying your setup options to add tip processing."
+      },
+      {
+        "question": "How do I reprint receipts on the Verifone card reader?",
+        "answer": "For VX520: 1. To reprint a receipt, press the purple hot key furthest to the left to scroll down. 2. Press [F3] to select \"Reprint.\" - To reprint the receipt for the most recent transaction, press [F2]. - To reprint the receipt from a different transaction, press [F3] and type in the invoice number for the receipt. - Press the green [Enter] key when you're finished. For VX680: 1. To reprint a receipt, press the Printer Icon on the bottom left of the screen. - Select \"Reprint\" to print the last transaction. - Select \"Any Receipt\" to reprint a previous transaction. - Follow the screen prompts to search for a previous transaction. - Press the green [Enter] key to reprint the receipt."
+      },
+      {
+        "question": "How do I settle my batch of transactions on the Verifone card reader?",
+        "answer": "A settlement operation is used to close out the current (open) batch of transactions and start a new batch. The closed batch is then submitted to Chase to begin the funding process. Your Verifone card reader uses a Terminal Capture System (TCS), meaning it stores transactions throughout the day and sends batch totals of sales and refunds to Chase after the close of business. There are two settlement options: 1. **Manual Settlement:** - If your card reader is set to manually settle, press [F3] to select \"Settlement\" from the main menu, and then follow the prompts. 2. **Auto Settlement:** - If your card reader is set to automatically settle, it will automatically settle transactions in the current batch at a specific, predetermined time within a 24-hour period. - For example, if you set Auto Settlement to begin at 10 p.m., then every day at or after 10 p.m., any unsettled transactions in your batch will automatically be submitted for processing. This will occur as long as your card reader is powered on and connected to an available phone or Internet service. At the end of every successful batch settlement, a settlement report automatically prints from your Verifone card reader. Review any settlement printouts to confirm the batch settled successfully. To change your settlement option, call the Help Desk at 1-888-886-8869 and follow the call menu promptings for Technical Assistance."
+      },
+      {
+        "question": "How do I run a report on my Verifone card reader?",
+        "answer": "Your Verifone card reader offers several reports that help you view details and summaries for the transactions in your open batch. For VX520: 1. Press the purple hot key furthest to the right to view the Reports menu. 2. Select a report to research your sales figures. For VX680: 1. Press the Report Icon (lower right corner) of the main screen. 2. The Report Menu will display. 3. Use the Arrow Icon to navigate through the Report Menu. 4. Tap the touchscreen to select the Report you wish to print. **Note:** Information in the Detail Report can be used to research a specific customer's transaction in your current (open) batch. Information in the Totals Report can be used to ensure your card reader totals are balancing with your registers. Running these Verifone card reader reports does not settle your batch or in any way alter the transactions that have been processed. For more reporting power and instant access to your merchant statement, Resource Online featuring the Instant Dashboard offers an at-a-glance view of your daily sales and settlement figures from any computer."
+      },
+      {
+        "question": "How do I install a new paper roll in the Verifone card reader?",
+        "answer": "1. Gently pull the latch located on the bottom of the card reader to unlock the paper cover. 2. Lift the printer cover up and back. 3. Loosen the glued leading edge of the paper or remove the protective strip from the new roll of paper. Unwind the paper roll past any glue residue. 4. Hold the roll so the paper feeds from the bottom of the roll when the card reader is facing you. 5. Drop the paper roll into the printer tray inverted. 6. Pull the paper up past the glue residue on the paper roll. 7. Close the paper roll cover by gently pressing directly on the cover until it clicks. 8. Tear the paper off against the serrated plastic strip in the printer."
+      },
+      {
+        "question": "How do I troubleshoot the printer on the Verifone card reader?",
+        "answer": "If receipts are not printing and a \"no paper\" error displays on your Verifone card reader: 1. Open the paper compartment. 2. Remove the paper roll and check for any jammed paper. 3. When finished, replace the paper roll and close the compartment. If the paper advances from the printer during transactions but is blank: 1. Make sure you are using thermal-sensitive paper, not plain paper. You can verify this by running your fingernail down the side of the paper – it should leave a line. 2. Make sure that the paper roll is loaded so that the paper feeds from the bottom of the roll."
+      },
+      {
+        "question": "How do I change the date or time on my Verifone card reader?",
+        "answer": "For VX520: 1. Press the star key to ensure you are at the operating system home screen. Then press [F2] and [F4] at the same time. If prompted, input the Terminal password and press Enter. 2. To change the time, press the far left purple key to scroll down and use the number pad to select the option that correlates to \"Clock,\" then select the option that correlates to \"Edit Time.\" 3. Using Military time, type six digits comprised of a two-digit format: Hour, Minutes, and Seconds, and press Enter. Press Cancel if the Time and Date appear on the screen. 4. To change the date, use the number pad to select the option that correlates to \"Edit Date.\" 5. Type six digits comprised of the two-digit month, day, and year, and press Enter. 6. The terminal screen will display the current Time and Date. 7. Press Cancel until the restart option displays, then using the number pad press the number that correlates to \"Restart\" to restart the terminal and return to the idle prompt. For VX680: 1. Press the star key to ensure you are at the operating system home screen. Then press Enter and [7] at the same time. 2. If prompted, input the Terminal password and press Enter. 3. Press the Down Arrow located on the far left portion of the touch screen to scroll to the next menu. 4. To change the time, use the number pad to select the option that correlates to \"Clock,\" then select the option that correlates to \"Edit Time.\" 5. Using Military time, type six digits comprised of a two-digit format: Hour, Minutes, and Seconds, and press Enter, then press Cancel. 6. To change the date, use the number pad to select the option that correlates to \"Edit Date.\" Type six digits comprised of the two-digit month, day, and year, and press Enter. 7. Press Cancel until \"Restart\" displays, then using the number pad press the option that correlates to \"Restart\" to return to the idle prompt."
+      }
+    ]
+  },
+  {
+    "page": 12,
+    "source_file": "virtual_terminal.txt",
+    "qa_pairs": [
+      {
+        "question": "How do I put a Chase terminal into Semi-Integrated Mode?",
+        "answer": "Setup: Retail POS for Mac/PC Retail POS on iPad Chase payment integration Ingenico Desk 5000/iCT250 Steps: Press the # key and enter the manager password provided by Chase. Navigate to the Admin Menu, select 9 - Misc. Options. In the Misc. Options menu, select 1-Semi-Integrated. Select 1-Enable SemiInteg and press On. Go back to the Semi-Integrated menu, select 2-Communication Type, and choose 3-Ethernet. Enter the Port number 9999 and confirm."
+      },
+      {
+        "question": "How do I pair an Ingenico Desk and Move with Chase Canada on eConduit?",
+        "answer": "Setup: Retail POS for Mac or PC Retail POS on iPad Desk 3500/5000 and Move 5000 eConduit application and semi-integrated (TSI) application Steps: Confirm Semi-Integrated Mode: Select Admin or #. Go to #9 Misc Options and select #1 for semi-integrated. Enable Semi Integrated to \"on\". Confirm Communication type (Ethernet for Desk 3500/5000 and WiFi for Move 5000). Set Port to 5020 and Receipt options to Terminal. Activate eConduit App: Select Function Key and eConduit icon. Click \"Cloud Server\" and \"Start Cloud Server\". Print Configuration to get Terminal ID. Create Payment Type in Retail POS: Log into Retail POS and go to Setup -> Payment Types. Click Add Payment Type and select Retail POS Payment Gateway. Name the payment type (e.g., Credit/Debit). Select outlets and save the payment type. Pair the Terminal in Retail POS: Select the Retail POS Payment Gateway created above. Click Pair a terminal and enter the Terminal ID from the configuration slip. Save Payment Type."
+      },
+      {
+        "question": "How do I configure my Desk 5000 to integrate with Retail POS (X-Series)?",
+        "answer": "Setup: Retail POS for Mac or PC Desk 5000 Steps: Enable Semi-Integrated Mode: Select the # key on the terminal pad. Enter Admin name and password. On the Admin menu, select 9-Misc. Options. Choose 1-Semi-Integrated and select 1-Enable Semi-Integ. Set to On. Configure Terminal Port Number: Select # key on the terminal pad. Enter Admin name and password. On the Admin menu, select 9-Misc. Options. Choose 1-Semi-Integrated, then 2-Communication Type. Select 4-Ethernet and enter Port number 3151. Configure Receipt Options: Select # key on the terminal pad. Enter Admin name and password. On the Admin menu, select 9-Misc. Options. Choose 1-Semi-Integrated, then 3-Receipt Options. Set to Terminal."
+      },
+      {
+        "question": "How do I reprint a receipt on a Desk/Move 5000 terminal?",
+        "answer": "Setup: Desk/Move 5000 Steps: In the lower left-hand corner of the screen, select [SEMI]. Confirm to switch to Standalone Mode. Press [8] for Desk 5000 or [7] for Move 5000. Choose [1] to print the last receipt, [2] to search for a receipt. Select [1] to print Merchant Copy only, [2] for Customer Copy only, [3] for both copies. Return to Semi-Integrated Mode: In the lower left-hand corner, select [S/A]. Confirm to switch to Semi-Integrated Mode."
+      },
+      {
+        "question": "How do I pair a Global Payments Canada Desk 5000 terminal to Retail POS (X-Series)?",
+        "answer": "Setup: Retail POS for Mac or PC Ingenico Desk 5000 and iCT 220/250 Ethernet Port 8150 (Desk 5000) and 1101 (iCT 220/250) Fiska Payment Bridge Steps: Create Payment Type in Retail POS: Log into Retail POS and go to Setup -> Payment Types. Click Add Payment Type and select Global Payments. Click Begin Setup. Configure Payment Type: Name the payment type (e.g., Credit/Debit). Click Save Payment Type. Pair the Terminal: Prepare the Terminal: Connect the terminal to the network with an Ethernet cable. Connect the power cable and turn the terminal on. Ensure the terminal is on the same IP network/subnet as the Retail POS register. Pair Terminal: Navigate to the Sell screen, add a product, and click Pay. Select the payment type created for Global Payments. If the Payment Bridge is not installed, Retail POS will prompt to download and install it. Install Payment Bridge: Click the payment button created for Global Payments. The system will detect and prompt to install the Payment Bridge Application. After installation, the Payment Bridge will search for terminals and pair automatically. Complete a transaction to authorize payment and Retail POS will display a `Payment Received' message. Refund Transaction: Perform a second transaction to refund the amount from the first transaction."
+      },
+      {
+        "question": "How do I set up Multi-Lane on Fiska?",
+        "answer": "Setup: Processing via Elavon US/CA, TD Bank, Nuvei US/CA, Global Payments CA, Chase CA/US PC/Mac Ingenico iCT200/250 or Desk/Move 5000 Steps: Ensure the Fiska payment type is enabled in Retail POS. Create the payment type in Setup. On the Sell Screen, process a test transaction. Select Pay and match the MAC Address with the terminals. Select the correct terminal and use it. Pair Remaining Terminals: If prompted, use another terminal, ensuring it matches the correct register. Repeat the process for each terminal. Additional Info: Only one payment type is needed per register. Use process of elimination if MAC Address is not visible."
+      },
+      {
+        "question": "How do I pair my Ingenico Desk and Move terminal with Evo on eConduit?",
+        "answer": "Setup: Retail POS for Mac or PC Retail POS on iPad Desk 3500/5000 and Move 5000 eConduit application and semi-integrated (TSI) application Steps: Confirm Semi-Integrated Mode: Select Admin or #. Go to #8 Misc Options and select #1 for semi-integrated. Enable Semi Integrated to \"on\". Confirm Communication type (Ethernet for Desk 3500/5000 and WiFi for Move 5000). Set Port to 5020 and Receipt options to Terminal. Activate eConduit App: Select Function Key and eConduit icon. Click \"Cloud Server\" and \"Start Cloud Server\". Print Configuration to get Terminal ID. Create Payment Type in Retail POS: Log into Retail POS and go to Setup -> Payment Types. Click Add Payment Type and select Retail POS Payment Gateway. Name the payment type (e.g., Credit/Debit). Select outlets and save the payment type. Pair the Terminal in Retail POS: Select the Retail POS Payment Gateway created above. Click Pair a terminal and enter the Terminal ID from the configuration slip. Save Payment Type."
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+    "COMMENT": "Data ingestion configuration - Update these URLs when endpoint is ready",
+    "QA_JSON_ENDPOINT": "https://your-server.com/api/qa-data/Input_QA.json",
+    "IMAGES_BASE_URL": "https://your-server.com/api/images/",
+    "DOWNLOAD_TIMEOUT_SECONDS": 300,
+    "MAX_DOWNLOAD_SIZE_MB": 100,
+    "VALIDATE_JSON_FORMAT": true,
+    "VALIDATE_IMAGES": true,
+    "KEEP_BACKUP_VERSIONS": 3
+}
